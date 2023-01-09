@@ -7,11 +7,12 @@ See yaml file in Scripts.
 See also small READMEs in subdirs (particularly Scripts/README)
 
 ## Reduction of the dataset from 480 to 169 yemeni using plink:
+```
 conda activate vcf
 cd /bmshare/ahenschel/Pierre/GenotypeData/analysis
 grep "3577STDY" omni2.5-8_yemcha_20150605.zcall.fam | cut -d$'\t' -f1 > yemen.txt
 plink --bfile omni2.5-8_yemcha_20150605.gencall.smajor --keep-fam yemen.txt  --make-bed --out yemen
-
+```
 ## Merging datasets,
 see Scripts/README
 
