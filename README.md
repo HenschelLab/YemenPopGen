@@ -18,8 +18,7 @@ see Scripts/README
 ## Running Admixtools (not provided ins GitHub)
 
 See directories AdmixTools_(dataset)_mind(indiv.missingness)_geno(genotype.missingness):
-
-drwxrwxr-x 2 ahenschel ahenschel  4096 Sep 12 10:34 AdmixTools_1240K_mind0.01_geno_0.05/
+```drwxrwxr-x 2 ahenschel ahenschel  4096 Sep 12 10:34 AdmixTools_1240K_mind0.01_geno_0.05/
 drwxrwxr-x 3 ahenschel ahenschel  4096 Jul  2 15:00 AdmixTools_1240K_mind0.3_geno_0.2/
 drwxrwxr-x 2 ahenschel ahenschel  4096 Sep 12 10:14 AdmixTools_1240K_mind0.3_geno_0.2_Mbuti/
 drwxrwxr-x 2 ahenschel ahenschel  4096 Sep 10 17:03 AdmixTools_1240K_mind0.5_geno_0.5/
@@ -27,7 +26,7 @@ drwxrwxr-x 2 ahenschel ahenschel 12288 Jun 30 16:54 AdmixTools_hgdp_mind0.3_geno
 drwxrwxr-x 2 ahenschel ahenschel  4096 Sep  5 10:21 AdmixTools_HO_mind0.01_geno_0.05/
 drwxrwxr-x 2 ahenschel ahenschel  4096 May 31 10:54 AdmixTools_HO_mind0.3_geno_0.05/
 drwxrwxr-x 5 ahenschel ahenschel 12288 Sep  5 10:36 AdmixTools_HO_mind0.3_geno_0.2/
-drwxrwxr-x 2 ahenschel ahenschel 12288 May 31 10:49 AdmixTools_HO_mind0.7_geno_0.5_pop10/
+drwxrwxr-x 2 ahenschel ahenschel 12288 May 31 10:49 AdmixTools_HO_mind0.7_geno_0.5_pop10/```
 
 ## Visualization:
 See Notebooks directory
