@@ -1,6 +1,8 @@
 # Yemen Population Genetics and genetic history
 
+Running all scripts with conda environment admix:
 conda activate admix (contains plink as well as admixtools, jupyter, ipython, etc)
+See yaml file in Scripts.
 
 See also small READMEs in subdirs (particularly Scripts/README)
 
@@ -13,7 +15,7 @@ plink --bfile omni2.5-8_yemcha_20150605.gencall.smajor --keep-fam yemen.txt  --m
 ## Merging datasets,
 see Scripts/README
 
-## Running Admixtools
+## Running Admixtools (not provided ins GitHub)
 
 See directories AdmixTools_(dataset)_mind(indiv.missingness)_geno(genotype.missingness):
 
@@ -41,9 +43,8 @@ jupyter notebook --no-browser --ip=0.0.0.0
 copy the token
 
 ## Running PCA
-flashpca: follow Syafiq's wiki (now deprecated, as this is rerun with smartPCA)
+flashpca (now deprecated, as this is rerun with smartPCA)
 
-http://10.11.64.39:8080
 docker run -d -it --name flashpca-yemen -v /bmshare/ahenschel/Pierre/GenotypeData/analysis/:/home/flashpca-user/data flashpca/latest
 docker exec -it flashpca-yemen bash # execute a bash
 (it requires that anaylis (the dir holding bed/bim/fam) is readable to all
