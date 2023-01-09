@@ -1,0 +1,671 @@
+[I 10:30:09.548 NotebookApp] Serving notebooks from local directory: /home/ahenschel/Dropbox/Yemen/YemenGenomeAnalysis/Notebooks
+[I 10:30:09.548 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 10:30:09.548 NotebookApp] http://Hydrogen:8888/?token=7300a06ee0fb34490a501025923aabac56df136c0207c801
+[I 10:30:09.548 NotebookApp]  or http://127.0.0.1:8888/?token=7300a06ee0fb34490a501025923aabac56df136c0207c801
+[I 10:30:09.548 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:30:10.247 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ahenschel/.local/share/jupyter/runtime/nbserver-6502-open.html
+    Or copy and paste one of these URLs:
+        http://Hydrogen:8888/?token=7300a06ee0fb34490a501025923aabac56df136c0207c801
+     or http://127.0.0.1:8888/?token=7300a06ee0fb34490a501025923aabac56df136c0207c801
+[I 10:31:11.863 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:31:11.901 NotebookApp] Notebook neander_vis.ipynb is not trusted
+/home/ahenschel/miniconda3/envs/admix/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/ahenschel/miniconda3/envs/admix/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 11:29:04.441 NotebookApp] 302 GET /?token=7300a06ee0fb34490a501025923aabac56df136c0207c801 (10.14.2.1) 292.120000ms
+[W 11:29:53.589 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 11:29:54.399 NotebookApp] Kernel started: 0904444e-9623-4d61-b3b4-21474406d8cf, name: python3
+[W 11:29:54.675 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 11:30:19.852 NotebookApp] Kernel started: 2bd8a6f1-b207-44d3-9ea6-219ad9a97228, name: python3
+[I 11:31:54.202 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 11:31:54.203 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[W 12:21:00.668 NotebookApp] WebSocket ping timeout after 118579 ms.
+[I 12:21:05.689 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[W 12:21:22.763 NotebookApp] WebSocket ping timeout after 119568 ms.
+[I 12:21:27.765 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:6451146fd6334ab38ff82046aa684aa8
+[I 12:22:41.710 NotebookApp] Restoring connection for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:6451146fd6334ab38ff82046aa684aa8
+[W 12:26:11.712 NotebookApp] WebSocket ping timeout after 119541 ms.
+[I 12:26:16.715 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:6451146fd6334ab38ff82046aa684aa8
+[I 12:26:18.672 NotebookApp] Restoring connection for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:6451146fd6334ab38ff82046aa684aa8
+[I 12:29:53.004 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[W 12:34:48.674 NotebookApp] WebSocket ping timeout after 119718 ms.
+[W 12:34:53.006 NotebookApp] WebSocket ping timeout after 119588 ms.
+[I 12:34:53.676 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:6451146fd6334ab38ff82046aa684aa8
+[I 12:34:58.008 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 13:25:57.282 NotebookApp] Kernel restarted: 0904444e-9623-4d61-b3b4-21474406d8cf
+[I 13:25:57.817 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[W 13:26:02.334 NotebookApp] Nudge: attempt 10 on kernel 0904444e-9623-4d61-b3b4-21474406d8cf
+[W 13:26:07.352 NotebookApp] Nudge: attempt 20 on kernel 0904444e-9623-4d61-b3b4-21474406d8cf
+[I 13:26:11.128 NotebookApp] Replaying 3 buffered messages
+[I 13:28:24.264 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 13:28:24.265 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 13:30:33.818 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 13:30:33.819 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+/home/ahenschel/miniconda3/envs/admix/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/ahenschel/miniconda3/envs/admix/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[W 13:34:27.818 NotebookApp] WebSocket ping timeout after 119734 ms.
+[I 13:34:32.821 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 13:42:28.159 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 13:49:20.618 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 13:49:20.620 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 13:51:19.946 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 13:51:19.947 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 13:57:21.492 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 13:57:21.493 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 13:59:34.310 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 13:59:34.310 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 14:02:42.876 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 14:02:42.876 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 14:07:04.391 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 14:07:04.391 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 14:11:12.304 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 14:11:12.305 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 14:15:26.161 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 14:15:26.162 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 14:19:36.534 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 14:19:36.535 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 14:23:46.521 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 14:23:46.521 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[W 14:28:28.160 NotebookApp] WebSocket ping timeout after 119453 ms.
+[I 14:28:33.163 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 16:21:33.056 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:21:33.057 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:22:30.036 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 16:22:41.044 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 16:22:42.057 NotebookApp] Kernel restarted: 0904444e-9623-4d61-b3b4-21474406d8cf
+[I 16:22:42.381 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 16:22:42.830 NotebookApp] Replaying 3 buffered messages
+[I 16:27:17.301 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:27:17.322 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:32:55.511 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:32:55.511 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:38:35.555 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:38:35.555 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:44:15.337 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:44:15.337 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:49:55.633 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:49:55.633 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:55:35.480 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:55:35.481 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[W 17:05:42.382 NotebookApp] WebSocket ping timeout after 119333 ms.
+[I 17:05:47.384 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 17:14:22.563 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[E 17:27:15.436 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/ahenschel/miniconda3/envs/admix/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 89, in post
+        yield maybe_future(km.restart_kernel(kernel_id))
+      File "/home/ahenschel/miniconda3/envs/admix/lib/python3.9/site-packages/tornado/gen.py", line 769, in run
+        value = future.result()
+      File "/home/ahenschel/miniconda3/envs/admix/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/ahenschel/miniconda3/envs/admix/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/ahenschel/miniconda3/envs/admix/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 313, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/home/ahenschel/miniconda3/envs/admix/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 394, in _check_kernel_id
+        raise web.HTTPError(404, f'Kernel does not exist: {kernel_id}')
+    tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: 1e76cd2b-223c-4acd-b7f6-44cbdf67254f)
+[E 17:27:15.712 NotebookApp] {
+      "Host": "hydrogen:8888",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://hydrogen:8888/notebooks/neander_vis.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.41"
+    }
+[E 17:27:15.712 NotebookApp] 500 POST /api/kernels/1e76cd2b-223c-4acd-b7f6-44cbdf67254f/restart (10.14.0.26) 350.390000ms referer=http://hydrogen:8888/notebooks/neander_vis.ipynb
+[W 17:27:16.083 NotebookApp] 404 DELETE /api/sessions/903a7e7c-65ab-4301-b9ce-fd11947cb5f3 (10.14.0.26): Session not found: session_id='903a7e7c-65ab-4301-b9ce-fd11947cb5f3'
+[W 17:27:16.084 NotebookApp] Session not found: session_id='903a7e7c-65ab-4301-b9ce-fd11947cb5f3'
+[W 17:27:16.084 NotebookApp] 404 DELETE /api/sessions/903a7e7c-65ab-4301-b9ce-fd11947cb5f3 (10.14.0.26) 24.580000ms referer=http://hydrogen:8888/notebooks/neander_vis.ipynb
+[I 17:29:38.312 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:29:38.314 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:30:33.837 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:61ac5c74e0434d0baa82d9cb1bc984c8
+[W 17:30:41.847 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:35:16.344 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 17:35:16.345 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[W 17:42:12.378 NotebookApp] WebSocket ping timeout after 119732 ms.
+[I 17:42:17.380 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:c0fba9b1dd2b4b529dfd51b5a5d099c5
+[W 17:42:22.565 NotebookApp] WebSocket ping timeout after 119776 ms.
+[I 17:42:27.568 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 18:10:00.631 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 18:10:06.693 NotebookApp] Restoring connection for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:c0fba9b1dd2b4b529dfd51b5a5d099c5
+[W 18:19:00.633 NotebookApp] WebSocket ping timeout after 119750 ms.
+[I 18:19:05.635 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[W 18:19:06.695 NotebookApp] WebSocket ping timeout after 119680 ms.
+[I 18:19:11.698 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:c0fba9b1dd2b4b529dfd51b5a5d099c5
+[I 18:22:35.052 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 18:22:37.089 NotebookApp] Restoring connection for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:c0fba9b1dd2b4b529dfd51b5a5d099c5
+[W 18:22:51.957 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 18:29:03.670 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 18:29:03.672 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 18:49:35.168 NotebookApp] Saving file at /neander_vis.ipynb
+[W 18:49:35.169 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 18:55:05.963 NotebookApp] Saving file at /neander_vis.ipynb
+[W 18:55:05.965 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 19:07:54.488 NotebookApp] Saving file at /neander_vis.ipynb
+[W 19:07:54.489 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[W 19:34:35.054 NotebookApp] WebSocket ping timeout after 112681 ms.
+[W 19:34:37.090 NotebookApp] WebSocket ping timeout after 114717 ms.
+[I 19:34:40.057 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[W 19:34:40.806 NotebookApp] WebSocket ping timeout after 118432 ms.
+[I 19:34:45.809 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:308b0acb87f94e7f88d19fb659bf6970
+[I 19:36:35.872 NotebookApp] Restoring connection for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:308b0acb87f94e7f88d19fb659bf6970
+[I 19:36:39.358 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[W 19:38:05.875 NotebookApp] WebSocket ping timeout after 90002 ms.
+[W 19:38:09.359 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 19:38:10.876 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:308b0acb87f94e7f88d19fb659bf6970
+[I 19:38:14.360 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 19:42:16.076 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[W 20:33:41.505 NotebookApp] WebSocket ping timeout after 119806 ms.
+[W 20:33:45.504 NotebookApp] WebSocket ping timeout after 119787 ms.
+[W 20:33:46.079 NotebookApp] WebSocket ping timeout after 119773 ms.
+[I 20:33:50.507 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:308b0acb87f94e7f88d19fb659bf6970
+[I 20:33:51.081 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 21:52:41.557 NotebookApp] Kernel restarted: 0904444e-9623-4d61-b3b4-21474406d8cf
+[I 21:52:41.886 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 21:52:45.135 NotebookApp] Replaying 3 buffered messages
+[I 21:56:10.116 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 21:56:10.118 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 22:01:49.973 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 22:01:49.974 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 22:13:11.340 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 22:13:11.341 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[W 22:16:41.887 NotebookApp] WebSocket ping timeout after 119840 ms.
+[I 22:16:46.889 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[I 23:51:37.612 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[W 23:58:07.615 NotebookApp] WebSocket ping timeout after 119841 ms.
+[I 23:58:12.617 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:a7a7a749ad214771926c70d0b22e033d
+[W 10:16:49.133 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[W 10:17:01.074 NotebookApp] Notebook plotRoHs.ipynb is not trusted
+[I 10:17:02.112 NotebookApp] Kernel started: 65a29d0e-6e41-4471-b564-d1d65b6ab612, name: python3
+[I 10:18:50.358 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:18:50.359 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:20:50.384 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:20:50.385 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:34:50.477 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:34:50.479 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:36:50.456 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:36:50.458 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:38:50.408 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:38:50.409 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:40:50.393 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:40:50.394 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:42:50.405 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:42:50.407 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:44:50.397 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:44:50.398 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:50:50.461 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:50:50.463 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:52:50.407 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:52:50.408 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:54:50.450 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:54:50.451 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:56:50.397 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:56:50.398 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 10:58:50.457 NotebookApp] Saving file at /neander_vis.ipynb
+[W 10:58:50.458 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 11:08:50.455 NotebookApp] Saving file at /neander_vis.ipynb
+[W 11:08:50.457 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 11:10:50.411 NotebookApp] Saving file at /neander_vis.ipynb
+[W 11:10:50.412 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 11:20:51.298 NotebookApp] Saving file at /neander_vis.ipynb
+[W 11:20:51.299 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 11:22:51.130 NotebookApp] Saving file at /neander_vis.ipynb
+[W 11:22:51.131 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 11:24:51.153 NotebookApp] Saving file at /neander_vis.ipynb
+[W 11:24:51.155 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 11:26:51.117 NotebookApp] Saving file at /neander_vis.ipynb
+[W 11:26:51.118 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:26:50.914 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:26:50.936 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:28:50.528 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:28:50.529 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:30:50.516 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:30:50.517 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:32:50.510 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:32:50.511 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:34:50.540 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:34:50.541 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:36:50.565 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:36:50.566 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:38:50.492 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:38:50.493 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:40:50.561 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:40:50.563 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:42:50.578 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:42:50.579 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:44:50.577 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:44:50.579 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:46:50.577 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:46:50.578 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:48:50.562 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:48:50.563 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:50:50.550 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:50:50.551 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:52:50.572 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:52:50.573 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:54:50.573 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:54:50.574 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:56:50.566 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:56:50.567 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:58:50.603 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:58:50.604 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:00:50.594 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:00:50.595 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:02:50.599 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:02:50.600 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:08:50.752 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:08:50.753 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:10:50.750 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:10:50.751 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:12:50.712 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:12:50.713 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:14:50.696 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:14:50.697 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:16:50.761 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:16:50.762 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:18:50.715 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:18:50.716 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:20:50.630 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:20:50.632 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:22:50.643 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:22:50.644 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:24:50.823 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:24:50.824 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:26:50.732 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:26:50.733 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:28:50.716 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:28:50.717 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:38:50.706 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:38:50.707 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:40:50.720 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:40:55.693 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:42:50.632 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:42:50.633 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:44:51.099 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:44:51.100 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:58:51.144 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:58:51.145 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:00:51.172 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:00:51.173 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:12:51.151 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:12:51.151 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:14:51.202 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:14:51.203 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:22:50.638 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:22:50.640 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:24:50.708 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:24:50.709 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:28:50.676 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:28:50.678 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:30:50.662 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:30:50.663 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:32:45.892 NotebookApp] 302 GET /?token=bb62dd6adcb7ca7a183c368377a5ea6b221833b4e8b8f918 (10.248.128.13) 0.930000ms
+[I 15:32:50.714 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:32:50.715 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[W 15:32:55.187 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 15:32:55.926 NotebookApp] Kernel started: bac40980-d12c-4de9-b457-c97e40930a71, name: python3
+[I 15:34:50.714 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:34:50.716 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:36:50.738 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:36:50.739 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:38:50.685 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:38:50.686 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:40:50.713 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:40:50.714 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:42:50.760 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:42:50.761 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:46:50.716 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:46:50.717 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:48:50.702 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:48:50.703 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:58:51.549 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:58:51.550 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:00:51.554 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:00:51.555 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:02:51.531 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:02:51.532 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:06:52.749 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:06:52.750 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:08:51.670 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:08:51.671 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:10:51.859 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:10:51.860 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:12:50.969 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:12:50.970 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:14:50.730 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:14:50.731 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:16:50.729 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:16:50.731 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:18:50.725 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:18:50.726 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:20:50.728 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:20:50.729 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:22:50.718 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:22:50.719 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:24:50.730 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:24:50.731 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:26:50.709 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:26:50.710 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:28:50.768 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:28:50.769 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:30:50.736 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:30:50.737 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:32:50.734 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:32:50.735 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:34:51.142 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:34:51.143 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:50:50.819 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:50:50.820 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:52:50.779 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:52:50.780 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:54:50.747 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:54:50.748 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:56:50.757 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:56:50.758 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 16:58:50.789 NotebookApp] Saving file at /neander_vis.ipynb
+[W 16:58:50.790 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:00:50.762 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:00:50.763 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:04:50.788 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:04:50.789 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:06:50.751 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:06:50.752 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:08:50.762 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:08:50.763 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:10:50.758 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:10:50.759 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:12:50.793 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:12:50.793 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:14:50.821 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:14:50.822 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:16:02.794 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:16:02.796 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:16:50.779 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:16:50.781 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:18:50.836 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:18:50.837 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:20:50.786 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:20:50.787 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:22:50.800 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:22:50.801 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:24:50.743 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:24:50.745 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:26:50.812 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:26:50.813 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:28:50.788 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:28:50.790 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:30:50.809 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:30:50.810 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:32:50.808 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:32:50.809 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:34:50.824 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:34:50.825 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:36:50.859 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:36:50.861 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:38:50.824 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:38:50.825 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:40:50.808 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:40:50.809 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:42:50.813 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:42:50.815 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:44:50.829 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:44:50.830 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 18:04:51.184 NotebookApp] Saving file at /neander_vis.ipynb
+[W 18:04:51.186 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 18:06:51.063 NotebookApp] Saving file at /neander_vis.ipynb
+[W 18:06:51.065 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 18:07:00.124 NotebookApp] Kernel interrupted: 2bd8a6f1-b207-44d3-9ea6-219ad9a97228
+[I 18:08:51.295 NotebookApp] Saving file at /neander_vis.ipynb
+[W 18:08:51.297 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 19:06:50.983 NotebookApp] Saving file at /neander_vis.ipynb
+[W 19:06:50.985 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 19:54:51.020 NotebookApp] Saving file at /neander_vis.ipynb
+[W 19:54:51.022 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:04:51.022 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:04:51.023 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:06:50.992 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:06:50.994 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:08:50.979 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:08:50.980 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:10:51.341 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:10:51.343 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:26:51.252 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:26:51.253 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:30:51.721 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:30:51.722 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:38:53.351 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:38:53.352 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:44:53.084 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:44:53.085 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:46:52.721 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:46:52.722 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:48:53.180 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:48:53.182 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:56:50.936 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:56:50.938 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 20:58:51.505 NotebookApp] Saving file at /neander_vis.ipynb
+[W 20:58:51.507 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[W 11:22:11.669 NotebookApp] Notebook smartPCA_viz2.ipynb is not trusted
+[I 11:22:14.503 NotebookApp] Kernel started: 7525c037-2603-4c02-897e-b3e7610f62c3, name: python3
+[I 11:34:14.002 NotebookApp] Saving file at /smartPCA_viz2.ipynb
+[W 11:34:14.004 NotebookApp] Notebook smartPCA_viz2.ipynb is not trusted
+[I 11:35:58.317 NotebookApp] Starting buffering for bac40980-d12c-4de9-b457-c97e40930a71:6f7f8f65c91645a6a92d62d0081cfaee
+[I 11:38:14.674 NotebookApp] Saving file at /smartPCA_viz2.ipynb
+[W 11:38:14.675 NotebookApp] Notebook smartPCA_viz2.ipynb is not trusted
+[I 13:46:14.427 NotebookApp] Saving file at /smartPCA_viz2.ipynb
+[W 13:46:14.453 NotebookApp] Notebook smartPCA_viz2.ipynb is not trusted
+[W 14:13:45.300 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 14:13:46.354 NotebookApp] Kernel started: 7e7226a6-3039-4fd1-bafe-1c5a36b1e98d, name: python3
+[I 14:15:46.384 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 14:15:46.386 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 14:17:46.338 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 14:17:46.339 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 14:21:46.337 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 14:21:46.339 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 14:23:47.163 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 14:23:47.164 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 14:33:46.507 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 14:33:46.514 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 14:35:46.405 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 14:35:46.407 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 14:37:46.389 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 14:37:46.390 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 14:39:46.403 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 14:39:46.404 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 14:50:14.176 NotebookApp] Saving file at /smartPCA_viz2.ipynb
+[W 14:50:14.177 NotebookApp] Notebook smartPCA_viz2.ipynb is not trusted
+[I 14:52:14.423 NotebookApp] Saving file at /smartPCA_viz2.ipynb
+[W 14:52:14.424 NotebookApp] Notebook smartPCA_viz2.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: d472ab5b0a574cb5a33ea36ea553d303
+[I 14:54:14.322 NotebookApp] Saving file at /smartPCA_viz2.ipynb
+[W 14:54:14.323 NotebookApp] Notebook smartPCA_viz2.ipynb is not trusted
+[I 14:56:14.307 NotebookApp] Saving file at /smartPCA_viz2.ipynb
+[W 14:56:14.308 NotebookApp] Notebook smartPCA_viz2.ipynb is not trusted
+[I 14:58:14.238 NotebookApp] Saving file at /smartPCA_viz2.ipynb
+[W 14:58:14.239 NotebookApp] Notebook smartPCA_viz2.ipynb is not trusted
+[I 15:30:35.928 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 2bd8a6f1-b207-44d3-9ea6-219ad9a97228 restarted
+[W 15:56:37.180 NotebookApp] Notebook admixture.ipynb is not trusted
+[I 15:56:38.151 NotebookApp] Kernel started: e5241713-9f20-4198-b3f9-1b7986decd10, name: python3
+[W 15:57:45.327 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[W 15:57:50.299 NotebookApp] Nudge: attempt 10 on kernel 0904444e-9623-4d61-b3b4-21474406d8cf
+[W 15:57:55.318 NotebookApp] Nudge: attempt 20 on kernel 0904444e-9623-4d61-b3b4-21474406d8cf
+[I 15:59:45.800 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 15:59:45.847 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:01:45.723 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:01:45.938 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:03:45.747 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:03:45.794 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:05:45.762 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:05:45.809 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:07:46.067 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:07:46.331 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:09:45.715 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:09:45.763 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:11:45.721 NotebookApp] Saving file at /novelSNPs.ipynb
+[W 16:11:45.752 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[I 16:54:53.700 NotebookApp] Starting buffering for 65a29d0e-6e41-4471-b564-d1d65b6ab612:d40b9055505745408b25bc8452c81101
+[I 17:02:53.222 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:02:53.224 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:04:52.138 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:04:57.283 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:06:52.200 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:06:52.201 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:08:52.140 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:08:52.141 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:10:52.590 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:10:52.591 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:12:52.129 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:12:52.130 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:14:52.121 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:14:52.122 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:16:52.264 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:16:52.265 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:24:52.417 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:24:52.418 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:26:52.303 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:26:52.304 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:28:52.230 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:28:52.231 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:32:52.217 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:32:52.218 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:34:52.276 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:34:52.277 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:36:52.213 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:36:52.214 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:38:52.226 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:38:52.227 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 17:40:52.207 NotebookApp] Saving file at /neander_vis.ipynb
+[W 17:40:52.208 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[W 17:55:31.889 NotebookApp] Notebook novelSNPs.ipynb is not trusted
+[W 17:55:33.776 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[W 15:52:55.327 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 15:52:59.756 NotebookApp] Kernel started: 3906ed6d-b0d7-4a36-9b88-d46ff6c81d55, name: python3
+[I 15:54:57.653 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 15:54:57.671 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 15:56:57.656 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 15:56:57.684 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 15:58:57.643 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 15:58:57.662 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:00:58.488 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:00:58.526 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:04:57.716 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:04:57.755 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:06:57.745 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:06:57.793 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:08:57.670 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:08:57.699 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:10:57.669 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:10:57.714 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:12:57.724 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:12:57.819 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:14:57.668 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:14:57.682 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:16:57.635 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:16:57.636 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:18:57.680 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:18:57.681 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:20:57.641 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:20:57.642 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:22:57.639 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:22:57.640 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:24:57.668 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:24:57.669 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:26:57.639 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:26:57.640 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:28:57.675 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:28:57.676 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:30:57.668 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:30:57.669 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:36:57.668 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:36:57.669 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:38:57.655 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:38:57.656 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:40:57.683 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:40:57.685 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:52:59.539 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:52:59.542 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 16:54:58.523 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 16:54:58.524 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 18:43:03.410 NotebookApp] Starting buffering for e5241713-9f20-4198-b3f9-1b7986decd10:dfaf85ba0dc14ae38393cc17ec0a56b6
+[W 18:16:37.212 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 18:18:38.180 NotebookApp] Saving file at /yemenMap.ipynb
+[W 18:18:38.180 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 18:26:38.197 NotebookApp] Saving file at /yemenMap.ipynb
+[W 18:26:38.198 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 18:28:38.194 NotebookApp] Saving file at /yemenMap.ipynb
+[W 18:28:38.195 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 18:30:38.139 NotebookApp] Saving file at /yemenMap.ipynb
+[W 18:30:38.139 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 18:32:38.220 NotebookApp] Saving file at /yemenMap.ipynb
+[W 18:32:38.221 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 18:38:38.194 NotebookApp] Saving file at /yemenMap.ipynb
+[W 18:38:38.195 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 18:40:38.164 NotebookApp] Saving file at /yemenMap.ipynb
+[W 18:40:38.164 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 18:42:39.062 NotebookApp] Saving file at /yemenMap.ipynb
+[W 18:42:39.063 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 18:44:38.237 NotebookApp] Saving file at /yemenMap.ipynb
+[W 18:44:38.238 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 18:52:39.343 NotebookApp] Saving file at /yemenMap.ipynb
+[W 18:52:39.344 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 18:54:39.864 NotebookApp] Saving file at /yemenMap.ipynb
+[W 18:54:39.864 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 19:00:39.333 NotebookApp] Saving file at /yemenMap.ipynb
+[W 19:00:39.334 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 19:02:39.329 NotebookApp] Saving file at /yemenMap.ipynb
+[W 19:02:39.330 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 19:06:39.187 NotebookApp] Saving file at /yemenMap.ipynb
+[W 19:06:39.187 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[W 12:06:56.016 NotebookApp] Notebook alderVis.ipynb is not trusted
+[I 12:06:56.316 NotebookApp] Kernel started: f7d45d01-fcd9-4c3c-b95b-85bb9222d00c, name: python3
+[I 12:10:56.323 NotebookApp] Saving file at /alderVis.ipynb
+[W 12:10:56.324 NotebookApp] Notebook alderVis.ipynb is not trusted
+[I 12:12:56.291 NotebookApp] Saving file at /alderVis.ipynb
+[W 12:12:56.294 NotebookApp] Notebook alderVis.ipynb is not trusted
+[I 14:24:43.523 NotebookApp] Starting buffering for f7d45d01-fcd9-4c3c-b95b-85bb9222d00c:7b7af2a0c9e046afa8a50af3435aaebb
+[I 14:24:43.545 NotebookApp] Starting buffering for bac40980-d12c-4de9-b457-c97e40930a71:1b1d70df401a4e63b56008272adabd33
+[I 14:24:43.591 NotebookApp] Starting buffering for 3906ed6d-b0d7-4a36-9b88-d46ff6c81d55:e387a070536e49718294d6d0b3327613
+[I 14:24:43.599 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:1234991232984c818d1161a772de46f0
+[I 14:24:43.603 NotebookApp] Starting buffering for 7e7226a6-3039-4fd1-bafe-1c5a36b1e98d:4fac2091d27f493483e7f7156eeb087d
+[I 14:24:43.623 NotebookApp] Starting buffering for 7525c037-2603-4c02-897e-b3e7610f62c3:0bd4f79b4c3147fca65a5f2deb636100
+[I 14:24:43.639 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:5d121af2c7c748338afee38a89cbf5ea
+[I 14:24:45.287 NotebookApp] Restoring connection for 7525c037-2603-4c02-897e-b3e7610f62c3:0bd4f79b4c3147fca65a5f2deb636100
+[I 14:24:45.309 NotebookApp] Restoring connection for f7d45d01-fcd9-4c3c-b95b-85bb9222d00c:7b7af2a0c9e046afa8a50af3435aaebb
+[I 14:24:45.337 NotebookApp] Restoring connection for bac40980-d12c-4de9-b457-c97e40930a71:1b1d70df401a4e63b56008272adabd33
+[I 14:24:45.361 NotebookApp] Restoring connection for 7e7226a6-3039-4fd1-bafe-1c5a36b1e98d:4fac2091d27f493483e7f7156eeb087d
+[I 14:24:45.382 NotebookApp] Restoring connection for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:5d121af2c7c748338afee38a89cbf5ea
+[I 14:24:45.416 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:1234991232984c818d1161a772de46f0
+[I 14:24:45.436 NotebookApp] Restoring connection for 3906ed6d-b0d7-4a36-9b88-d46ff6c81d55:e387a070536e49718294d6d0b3327613
+[W 14:24:49.805 NotebookApp] Nudge: attempt 10 on kernel 7525c037-2603-4c02-897e-b3e7610f62c3
+[W 14:24:49.878 NotebookApp] Nudge: attempt 10 on kernel 7e7226a6-3039-4fd1-bafe-1c5a36b1e98d
+[I 14:49:14.418 NotebookApp] Starting buffering for 7e7226a6-3039-4fd1-bafe-1c5a36b1e98d:4fac2091d27f493483e7f7156eeb087d
+[I 12:10:30.071 NotebookApp] Starting buffering for 3906ed6d-b0d7-4a36-9b88-d46ff6c81d55:e387a070536e49718294d6d0b3327613
+[I 12:10:30.072 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:1234991232984c818d1161a772de46f0
+[I 12:10:30.080 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:5d121af2c7c748338afee38a89cbf5ea
+[I 12:10:30.084 NotebookApp] Starting buffering for bac40980-d12c-4de9-b457-c97e40930a71:1b1d70df401a4e63b56008272adabd33
+[I 12:10:30.085 NotebookApp] Starting buffering for f7d45d01-fcd9-4c3c-b95b-85bb9222d00c:7b7af2a0c9e046afa8a50af3435aaebb
+[I 12:10:30.085 NotebookApp] Starting buffering for 7525c037-2603-4c02-897e-b3e7610f62c3:0bd4f79b4c3147fca65a5f2deb636100
+[I 12:10:31.712 NotebookApp] Restoring connection for 7525c037-2603-4c02-897e-b3e7610f62c3:0bd4f79b4c3147fca65a5f2deb636100
+[I 12:10:31.751 NotebookApp] Restoring connection for f7d45d01-fcd9-4c3c-b95b-85bb9222d00c:7b7af2a0c9e046afa8a50af3435aaebb
+[I 12:10:31.877 NotebookApp] Restoring connection for bac40980-d12c-4de9-b457-c97e40930a71:1b1d70df401a4e63b56008272adabd33
+[I 12:10:31.906 NotebookApp] Restoring connection for 0904444e-9623-4d61-b3b4-21474406d8cf:1234991232984c818d1161a772de46f0
+[I 12:10:31.925 NotebookApp] Restoring connection for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:5d121af2c7c748338afee38a89cbf5ea
+[I 12:10:31.950 NotebookApp] Restoring connection for 3906ed6d-b0d7-4a36-9b88-d46ff6c81d55:e387a070536e49718294d6d0b3327613
+[W 12:13:01.713 NotebookApp] WebSocket ping timeout after 93324 ms.
+[W 12:13:01.752 NotebookApp] WebSocket ping timeout after 93056 ms.
+[W 12:13:01.878 NotebookApp] WebSocket ping timeout after 93182 ms.
+[W 12:13:01.907 NotebookApp] WebSocket ping timeout after 93212 ms.
+[W 12:13:01.927 NotebookApp] WebSocket ping timeout after 93231 ms.
+[W 12:13:01.951 NotebookApp] WebSocket ping timeout after 93256 ms.
+[I 12:13:06.715 NotebookApp] Starting buffering for 7525c037-2603-4c02-897e-b3e7610f62c3:0bd4f79b4c3147fca65a5f2deb636100
+[I 12:13:06.753 NotebookApp] Starting buffering for f7d45d01-fcd9-4c3c-b95b-85bb9222d00c:7b7af2a0c9e046afa8a50af3435aaebb
+[I 12:13:06.880 NotebookApp] Starting buffering for bac40980-d12c-4de9-b457-c97e40930a71:1b1d70df401a4e63b56008272adabd33
+[I 12:13:06.908 NotebookApp] Starting buffering for 0904444e-9623-4d61-b3b4-21474406d8cf:1234991232984c818d1161a772de46f0
+[I 12:13:06.928 NotebookApp] Starting buffering for 2bd8a6f1-b207-44d3-9ea6-219ad9a97228:5d121af2c7c748338afee38a89cbf5ea
+[I 12:13:06.952 NotebookApp] Starting buffering for 3906ed6d-b0d7-4a36-9b88-d46ff6c81d55:e387a070536e49718294d6d0b3327613

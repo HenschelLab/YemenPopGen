@@ -1,0 +1,477 @@
+[I 17:46:51.839 NotebookApp] The port 8888 is already in use, trying another port.
+[I 17:46:51.840 NotebookApp] The port 8889 is already in use, trying another port.
+[I 17:46:51.841 NotebookApp] Serving notebooks from local directory: /mnt/Drive1/ahenschel/SambaShare/YemenGenomeAnalysis/Notebooks
+[I 17:46:51.841 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 17:46:51.841 NotebookApp] http://Hydrogen:8890/?token=af6f02ff0143051029856726afcae2ce35d2f53ff4383c5c
+[I 17:46:51.841 NotebookApp]  or http://127.0.0.1:8890/?token=af6f02ff0143051029856726afcae2ce35d2f53ff4383c5c
+[I 17:46:51.841 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:46:51.885 NotebookApp] No web browser found: could not locate runnable browser.
+[C 17:46:51.885 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ahenschel/.local/share/jupyter/runtime/nbserver-29792-open.html
+    Or copy and paste one of these URLs:
+        http://Hydrogen:8890/?token=af6f02ff0143051029856726afcae2ce35d2f53ff4383c5c
+     or http://127.0.0.1:8890/?token=af6f02ff0143051029856726afcae2ce35d2f53ff4383c5c
+[I 17:47:12.433 NotebookApp] 302 GET /?token=af6f02ff0143051029856726afcae2ce35d2f53ff4383c5c (10.14.2.7) 1.530000ms
+[W 17:47:49.510 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 17:47:50.426 NotebookApp] Kernel started: 340b3364-3aea-4f95-a4dd-4853c077aef3, name: python3
+[I 17:49:50.383 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 17:49:50.384 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 17:51:50.353 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 17:51:50.354 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 17:55:50.370 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 17:55:50.371 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 17:57:50.474 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 17:57:50.475 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 17:59:50.492 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 17:59:50.493 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 18:06:33.821 NotebookApp] Starting buffering for 340b3364-3aea-4f95-a4dd-4853c077aef3:60c34e6eb9aa4e9088d10d18205875b8
+[I 18:06:35.114 NotebookApp] Restoring connection for 340b3364-3aea-4f95-a4dd-4853c077aef3:60c34e6eb9aa4e9088d10d18205875b8
+[W 18:08:05.118 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 18:08:10.121 NotebookApp] Starting buffering for 340b3364-3aea-4f95-a4dd-4853c077aef3:60c34e6eb9aa4e9088d10d18205875b8
+[I 20:54:21.649 NotebookApp] Restoring connection for 340b3364-3aea-4f95-a4dd-4853c077aef3:60c34e6eb9aa4e9088d10d18205875b8
+[I 20:58:12.460 NotebookApp] Starting buffering for 340b3364-3aea-4f95-a4dd-4853c077aef3:60c34e6eb9aa4e9088d10d18205875b8
+[I 20:59:32.171 NotebookApp] Restoring connection for 340b3364-3aea-4f95-a4dd-4853c077aef3:60c34e6eb9aa4e9088d10d18205875b8
+[W 23:43:02.175 NotebookApp] WebSocket ping timeout after 119987 ms.
+[I 23:43:07.202 NotebookApp] Starting buffering for 340b3364-3aea-4f95-a4dd-4853c077aef3:60c34e6eb9aa4e9088d10d18205875b8
+[I 23:59:28.546 NotebookApp] Restoring connection for 340b3364-3aea-4f95-a4dd-4853c077aef3:60c34e6eb9aa4e9088d10d18205875b8
+[W 00:16:58.549 NotebookApp] WebSocket ping timeout after 119992 ms.
+[I 00:17:03.551 NotebookApp] Starting buffering for 340b3364-3aea-4f95-a4dd-4853c077aef3:60c34e6eb9aa4e9088d10d18205875b8
+[I 11:20:14.122 NotebookApp] 302 GET /?token=af6f02ff0143051029856726afcae2ce35d2f53ff4383c5c (127.0.0.1) 213.090000ms
+[W 11:20:34.770 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[W 11:20:35.599 NotebookApp] Forbidden
+[W 11:20:35.600 NotebookApp] 403 GET /api/config/tree?_=1662103235493 (127.0.0.1) 60.800000ms referer=http://0.0.0.0:8890/tree
+[W 11:20:35.711 NotebookApp] Forbidden
+[W 11:20:35.712 NotebookApp] 403 GET /api/config/common?_=1662103235494 (127.0.0.1) 22.460000ms referer=http://0.0.0.0:8890/tree
+[W 11:20:35.712 NotebookApp] Forbidden
+[W 11:20:35.713 NotebookApp] 403 GET /api/terminals?_=1662103235495 (127.0.0.1) 22.380000ms referer=http://0.0.0.0:8890/tree
+[W 11:20:35.714 NotebookApp] Forbidden
+[W 11:20:35.714 NotebookApp] 403 GET /api/kernelspecs (127.0.0.1) 22.920000ms referer=http://0.0.0.0:8890/tree
+[W 11:20:35.715 NotebookApp] Forbidden
+[W 11:20:35.716 NotebookApp] 403 GET /api/sessions?_=1662103235496 (127.0.0.1) 24.000000ms referer=http://0.0.0.0:8890/tree
+[W 11:20:35.719 NotebookApp] Forbidden
+[W 11:20:35.720 NotebookApp] 403 GET /api/terminals?_=1662103235497 (127.0.0.1) 27.850000ms referer=http://0.0.0.0:8890/tree
+[I 11:22:35.743 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 11:22:35.761 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 11:26:35.668 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 11:26:35.669 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 11:28:35.644 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 11:28:35.646 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 11:30:35.651 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 11:30:35.652 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 11:32:35.641 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 11:32:35.642 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 11:34:35.642 NotebookApp] Saving file at /metadataExplorer.ipynb
+[W 11:34:35.643 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 09:21:05.334 NotebookApp] 302 GET /?token=af6f02ff0143051029856726afcae2ce35d2f53ff4383c5c (10.248.140.143) 0.840000ms
+[W 09:21:30.064 NotebookApp] Notebook yemen_HGDP_smartPCA.ipynb is not trusted
+[I 09:21:31.038 NotebookApp] Kernel started: 4d9c111c-11e0-4575-a98a-f6c4a9673f79, name: python3
+[W 09:22:01.165 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:22:02.677 NotebookApp] Kernel started: 9c4cff58-3111-43c1-8959-b20020585ec4, name: python3
+[I 09:24:02.268 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:24:02.269 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:26:02.191 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:26:02.191 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:28:02.237 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:28:02.238 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:30:02.176 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:30:02.176 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:32:02.185 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:32:02.186 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:34:02.192 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:34:02.193 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:36:02.191 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:36:02.192 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:38:02.200 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:38:02.201 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:40:02.200 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:40:02.200 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:42:02.181 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:42:02.182 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:44:02.198 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:44:02.199 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:46:02.206 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:46:02.206 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:48:02.190 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:48:02.191 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:50:02.208 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:50:02.209 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:52:02.201 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:52:02.202 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:54:02.208 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:54:02.209 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:56:02.207 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:56:02.207 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 09:58:02.666 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 09:58:02.667 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 10:44:02.473 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 10:44:02.473 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 10:46:02.258 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 10:46:02.259 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 10:52:02.428 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 10:52:02.429 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 10:54:02.751 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 10:54:02.752 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 10:56:02.296 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 10:56:02.296 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 10:58:02.861 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 10:58:02.862 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 10:58:03.698 NotebookApp] Starting buffering for 4d9c111c-11e0-4575-a98a-f6c4a9673f79:3b776072a36f48678eda050654c7d856
+[I 11:00:02.351 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:00:02.352 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:02:02.319 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:02:02.320 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:04:02.847 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:04:02.848 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:06:02.734 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:06:02.734 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:16:02.361 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:16:02.361 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:18:02.284 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:18:02.285 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:20:02.293 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:20:02.293 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:22:02.287 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:22:02.288 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:24:02.537 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:24:02.538 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:26:02.303 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:26:02.304 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:28:02.313 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:28:02.314 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:30:02.341 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:30:02.342 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:48:02.422 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:48:02.423 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:50:02.371 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:50:02.371 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:52:02.341 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:52:02.342 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:54:02.373 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:54:02.373 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 18:01:31.187 NotebookApp] Starting buffering for 9c4cff58-3111-43c1-8959-b20020585ec4:a3ac7c39fd864f34977b90407e12e458
+[I 18:01:32.940 NotebookApp] Restoring connection for 9c4cff58-3111-43c1-8959-b20020585ec4:a3ac7c39fd864f34977b90407e12e458
+[W 18:04:02.941 NotebookApp] WebSocket ping timeout after 93269 ms.
+[I 18:04:07.943 NotebookApp] Starting buffering for 9c4cff58-3111-43c1-8959-b20020585ec4:a3ac7c39fd864f34977b90407e12e458
+[W 13:51:10.841 NotebookApp] Forbidden
+[W 13:51:10.990 NotebookApp] 403 GET /api/sessions?_=1662355265889 (10.14.0.40) 354.680000ms referer=http://hydrogen:8890/tree
+[W 13:51:11.012 NotebookApp] Forbidden
+[W 13:51:11.013 NotebookApp] 403 GET /api/terminals?_=1662355265890 (10.14.0.40) 261.360000ms referer=http://hydrogen:8890/tree
+[I 08:30:01.652 NotebookApp] 302 GET /?token=af6f02ff0143051029856726afcae2ce35d2f53ff4383c5c (10.248.132.253) 84.560000ms
+[I 08:30:14.605 NotebookApp] Creating new notebook in 
+[I 08:30:18.932 NotebookApp] Kernel started: c2109882-ae2e-4dd6-85cc-00078364ddf8, name: python3
+[I 08:32:18.760 NotebookApp] Saving file at /mtDNA.ipynb
+[I 08:54:18.498 NotebookApp] Saving file at /mtDNA.ipynb
+[I 08:56:18.508 NotebookApp] Saving file at /mtDNA.ipynb
+[I 08:58:18.498 NotebookApp] Saving file at /mtDNA.ipynb
+[I 09:00:18.501 NotebookApp] Saving file at /mtDNA.ipynb
+[I 09:02:18.505 NotebookApp] Saving file at /mtDNA.ipynb
+[I 09:04:18.511 NotebookApp] Saving file at /mtDNA.ipynb
+[I 09:06:18.547 NotebookApp] Saving file at /mtDNA.ipynb
+[I 09:08:18.541 NotebookApp] Saving file at /mtDNA.ipynb
+[I 09:10:18.517 NotebookApp] Saving file at /mtDNA.ipynb
+[I 13:48:02.507 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[I 13:48:04.393 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[W 13:50:34.395 NotebookApp] WebSocket ping timeout after 92633 ms.
+[I 13:50:39.397 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[I 15:22:13.854 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[W 15:23:43.856 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 15:23:48.858 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[I 15:34:24.357 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[I 16:25:04.673 NotebookApp] 302 GET /?token=af6f02ff0143051029856726afcae2ce35d2f53ff4383c5c (10.10.166.23) 0.930000ms
+[I 16:51:29.127 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[I 16:51:31.001 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[W 16:53:01.002 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 16:53:06.005 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[I 16:54:08.758 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[W 16:56:38.759 NotebookApp] WebSocket ping timeout after 92118 ms.
+[I 16:56:43.761 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[I 17:05:50.233 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[I 17:08:18.609 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[I 17:08:19.812 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[W 17:11:49.813 NotebookApp] WebSocket ping timeout after 119890 ms.
+[I 17:11:54.816 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:ecd971a4717a4a9c9a3b1be1aa79b0cb
+[W 21:29:29.588 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 21:29:30.132 NotebookApp] Kernel started: 84d476ff-4832-40b5-aaed-053feb107e95, name: python3
+[I 21:31:30.213 NotebookApp] Saving file at /haplogroups.ipynb
+[W 21:31:30.215 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 21:33:30.990 NotebookApp] Saving file at /haplogroups.ipynb
+[W 21:33:30.991 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 21:35:31.036 NotebookApp] Saving file at /haplogroups.ipynb
+[W 21:35:31.037 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 21:45:30.199 NotebookApp] Saving file at /haplogroups.ipynb
+[W 21:45:30.200 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 21:47:30.186 NotebookApp] Saving file at /haplogroups.ipynb
+[W 21:47:30.187 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 21:49:30.193 NotebookApp] Saving file at /haplogroups.ipynb
+[W 21:49:30.194 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[W 23:09:30.690 NotebookApp] WebSocket ping timeout after 119985 ms.
+[I 23:09:35.692 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:63e407147ecb4e349b521b025e9b6347
+[I 10:26:02.547 NotebookApp] Kernel restarted: 84d476ff-4832-40b5-aaed-053feb107e95
+[I 10:26:02.613 NotebookApp] Restoring connection for 84d476ff-4832-40b5-aaed-053feb107e95:63e407147ecb4e349b521b025e9b6347
+[I 10:26:03.451 NotebookApp] Replaying 3 buffered messages
+[I 10:27:22.118 NotebookApp] Saving file at /haplogroups.ipynb
+[W 10:27:22.120 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 10:29:22.048 NotebookApp] Saving file at /haplogroups.ipynb
+[W 10:29:22.049 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 10:31:22.052 NotebookApp] Saving file at /haplogroups.ipynb
+[W 10:31:22.053 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 10:33:22.129 NotebookApp] Saving file at /haplogroups.ipynb
+[W 10:33:22.130 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 10:35:22.057 NotebookApp] Saving file at /haplogroups.ipynb
+[W 10:35:22.059 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 10:37:22.073 NotebookApp] Saving file at /haplogroups.ipynb
+[W 10:37:22.074 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 10:41:22.056 NotebookApp] Saving file at /haplogroups.ipynb
+[W 10:41:22.057 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 10:43:22.059 NotebookApp] Saving file at /haplogroups.ipynb
+[W 10:43:22.060 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 10:45:22.059 NotebookApp] Saving file at /haplogroups.ipynb
+[W 10:45:22.060 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:21:22.051 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:21:22.053 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:23:22.031 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:23:22.032 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:25:22.026 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:25:22.027 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:27:22.024 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:27:22.026 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:29:22.024 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:29:22.026 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:31:22.033 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:31:22.034 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:33:22.058 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:33:22.059 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:35:22.047 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:35:22.048 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:37:22.032 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:37:22.033 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:39:22.032 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:39:22.033 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:41:22.046 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:41:22.047 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:43:22.038 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:43:22.039 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:45:22.043 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:45:22.044 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 11:59:22.191 NotebookApp] Saving file at /haplogroups.ipynb
+[W 11:59:22.193 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 12:01:22.156 NotebookApp] Saving file at /haplogroups.ipynb
+[W 12:01:22.157 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 12:03:22.158 NotebookApp] Saving file at /haplogroups.ipynb
+[W 12:03:22.159 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 12:05:22.198 NotebookApp] Saving file at /haplogroups.ipynb
+[W 12:05:22.199 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 12:07:22.159 NotebookApp] Saving file at /haplogroups.ipynb
+[W 12:07:22.160 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 12:47:22.253 NotebookApp] Saving file at /haplogroups.ipynb
+[W 12:47:22.254 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 12:49:22.198 NotebookApp] Saving file at /haplogroups.ipynb
+[W 12:49:22.199 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 12:51:22.198 NotebookApp] Saving file at /haplogroups.ipynb
+[W 12:51:22.199 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 12:53:22.211 NotebookApp] Saving file at /haplogroups.ipynb
+[W 12:53:22.212 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 12:55:22.207 NotebookApp] Saving file at /haplogroups.ipynb
+[W 12:55:22.208 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 12:57:22.230 NotebookApp] Saving file at /haplogroups.ipynb
+[W 12:57:22.232 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 13:01:22.225 NotebookApp] Saving file at /haplogroups.ipynb
+[W 13:01:22.226 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 13:05:22.152 NotebookApp] Saving file at /haplogroups.ipynb
+[W 13:05:22.153 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 13:07:22.231 NotebookApp] Saving file at /haplogroups.ipynb
+[W 13:07:22.233 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 13:09:22.221 NotebookApp] Saving file at /haplogroups.ipynb
+[W 13:09:22.223 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 13:11:22.242 NotebookApp] Saving file at /haplogroups.ipynb
+[W 13:11:22.243 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 13:13:22.236 NotebookApp] Saving file at /haplogroups.ipynb
+[W 13:13:22.238 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 14:59:22.300 NotebookApp] Saving file at /haplogroups.ipynb
+[W 14:59:22.302 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 17:26:30.051 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:63e407147ecb4e349b521b025e9b6347
+[I 17:26:31.464 NotebookApp] Restoring connection for 84d476ff-4832-40b5-aaed-053feb107e95:63e407147ecb4e349b521b025e9b6347
+[W 17:29:31.465 NotebookApp] WebSocket ping timeout after 119109 ms.
+[I 17:29:36.467 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:63e407147ecb4e349b521b025e9b6347
+[W 13:15:31.567 NotebookApp] Notebook mtDNA.ipynb is not trusted
+[I 13:16:15.743 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:3149cc408ef64d1fa0f06fe4608efbe6
+[W 13:16:15.896 NotebookApp] Notebook mtDNA.ipynb is not trusted
+[W 13:16:39.681 NotebookApp] Notebook mtDNA.ipynb is not trusted
+[W 13:17:05.189 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 14:00:17.020 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:f7639066ee024ef089f3afdd1a219375
+[I 14:00:17.037 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 14:00:18.694 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:f7639066ee024ef089f3afdd1a219375
+[I 14:00:18.740 NotebookApp] Restoring connection for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[W 14:01:48.696 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 14:01:48.720 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 14:01:48.741 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 14:01:53.721 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:f1937c5cafdf4da4ad9b5b54ddbebb6a
+[I 14:01:53.741 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 14:03:29.790 NotebookApp] Restoring connection for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 14:05:09.637 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:f1937c5cafdf4da4ad9b5b54ddbebb6a
+[I 14:05:09.665 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 14:05:11.232 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:f1937c5cafdf4da4ad9b5b54ddbebb6a
+[I 14:05:11.296 NotebookApp] Restoring connection for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 14:32:55.455 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 14:32:55.466 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:f1937c5cafdf4da4ad9b5b54ddbebb6a
+[I 14:32:57.280 NotebookApp] Restoring connection for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 14:32:57.306 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:f1937c5cafdf4da4ad9b5b54ddbebb6a
+[W 14:35:27.281 NotebookApp] WebSocket ping timeout after 93174 ms.
+[W 14:35:27.306 NotebookApp] WebSocket ping timeout after 93200 ms.
+[W 14:35:27.326 NotebookApp] WebSocket ping timeout after 93200 ms.
+[I 14:35:32.284 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 14:35:32.328 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:f7639066ee024ef089f3afdd1a219375
+[I 15:33:31.676 NotebookApp] Restoring connection for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[W 15:35:01.677 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 15:35:01.705 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 15:35:01.777 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 15:35:06.679 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 15:35:06.780 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:f7639066ee024ef089f3afdd1a219375
+[I 15:43:43.279 NotebookApp] Restoring connection for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 15:43:43.324 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:f7639066ee024ef089f3afdd1a219375
+[I 16:54:11.887 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:f7639066ee024ef089f3afdd1a219375
+[I 16:54:11.888 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 16:54:13.252 NotebookApp] Restoring connection for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[W 16:56:43.172 NotebookApp] WebSocket ping timeout after 92707 ms.
+[W 16:56:43.211 NotebookApp] WebSocket ping timeout after 92746 ms.
+[W 16:56:43.252 NotebookApp] WebSocket ping timeout after 93196 ms.
+[I 16:56:48.212 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:f7639066ee024ef089f3afdd1a219375
+[I 16:56:48.254 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 16:59:46.004 NotebookApp] Restoring connection for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 17:00:26.931 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:a9e2be9c304d4291859eecd12f11fc93
+[I 17:00:26.936 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:f1937c5cafdf4da4ad9b5b54ddbebb6a
+[I 09:06:36.498 NotebookApp] 302 GET /?token=af6f02ff0143051029856726afcae2ce35d2f53ff4383c5c (10.248.129.246) 0.860000ms
+[W 09:07:28.066 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:09:31.893 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:09:31.894 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:11:31.875 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:11:31.877 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:13:32.121 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:13:32.123 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:17:31.868 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:17:31.869 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:19:31.866 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:19:31.867 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:21:31.900 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:21:31.902 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:27:31.902 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:27:31.904 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:29:31.911 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:29:31.913 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:31:31.877 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:31:31.878 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:45:31.912 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:45:31.913 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:47:31.866 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:47:31.868 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:49:31.873 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:49:31.874 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:53:31.879 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:53:31.880 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 09:55:32.238 NotebookApp] Saving file at /haplogroups.ipynb
+[W 09:55:32.240 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[W 11:08:46.774 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 11:08:48.120 NotebookApp] Kernel started: ccabf3d0-9afc-4e1a-b5be-754612519133, name: python3
+[I 11:10:48.331 NotebookApp] Saving file at /neander_vis.ipynb
+[W 11:10:48.332 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 11:12:48.278 NotebookApp] Saving file at /neander_vis.ipynb
+[W 11:12:48.279 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 11:14:48.268 NotebookApp] Saving file at /neander_vis.ipynb
+[W 11:14:48.269 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 11:16:48.282 NotebookApp] Saving file at /neander_vis.ipynb
+[W 11:16:48.283 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 12:54:48.306 NotebookApp] Saving file at /neander_vis.ipynb
+[W 12:54:48.307 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 12:56:48.347 NotebookApp] Saving file at /neander_vis.ipynb
+[W 12:56:48.348 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 12:58:48.314 NotebookApp] Saving file at /neander_vis.ipynb
+[W 12:58:48.315 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:00:48.269 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:00:48.270 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:02:48.290 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:02:48.291 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:04:48.285 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:04:48.286 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:06:48.309 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:06:48.310 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:08:48.302 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:08:48.303 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:10:49.389 NotebookApp] Saving file at /neander_vis.ipynb
+[W 13:10:49.390 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 13:47:39.712 NotebookApp] Starting buffering for ccabf3d0-9afc-4e1a-b5be-754612519133:b17bb28ac9eb47868a82d1025f421e0a
+[I 13:47:39.715 NotebookApp] Starting buffering for 84d476ff-4832-40b5-aaed-053feb107e95:0873687d6ba343f983cfa76451c9090c
+[W 09:50:17.273 NotebookApp] Notebook mtDNA.ipynb is not trusted
+[W 09:50:29.373 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 09:52:30.090 NotebookApp] Saving file at /neander_vis.ipynb
+[W 09:52:30.092 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[W 10:38:26.520 NotebookApp] Notebook fixIndivPopulation.ipynb is not trusted
+[I 10:38:26.925 NotebookApp] Kernel started: 4bf1e783-fa64-45bd-b819-c0dfa7d2726c, name: python3
+[I 10:40:26.917 NotebookApp] Saving file at /fixIndivPopulation.ipynb
+[W 10:40:26.918 NotebookApp] Notebook fixIndivPopulation.ipynb is not trusted
+[W 11:00:45.733 NotebookApp] Notebook admixture.ipynb is not trusted
+[I 11:00:45.928 NotebookApp] Kernel started: 8aae850e-1323-42b9-842e-f1437ebbe0b8, name: python3
+[I 11:01:00.421 NotebookApp] Starting buffering for 8aae850e-1323-42b9-842e-f1437ebbe0b8:802716e2d4ed4436865d5b7a8e5c6ceb
+[W 11:01:19.666 NotebookApp] Notebook yemen_reich_PCA.ipynb is not trusted
+[I 11:01:20.679 NotebookApp] Kernel started: d2aaa4b8-0d60-4d9c-9452-651deb629981, name: python3
+[I 11:03:20.822 NotebookApp] Saving file at /yemen_reich_PCA.ipynb
+[W 11:03:20.823 NotebookApp] Notebook yemen_reich_PCA.ipynb is not trusted
+[W 11:05:45.572 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 11:07:46.934 NotebookApp] Saving file at /zalloua480_reich_PCA.ipynb
+[W 11:07:46.935 NotebookApp] Notebook zalloua480_reich_PCA.ipynb is not trusted
+[I 13:41:24.515 NotebookApp] Starting buffering for 9c4cff58-3111-43c1-8959-b20020585ec4:4f955b0635ad4329afe6e74ca3fdbc80
+[I 13:41:24.515 NotebookApp] Starting buffering for d2aaa4b8-0d60-4d9c-9452-651deb629981:c40d29dc838a4c92adf0e27599aa6739
+[I 13:41:24.516 NotebookApp] Starting buffering for 4bf1e783-fa64-45bd-b819-c0dfa7d2726c:4f2b36818d3549a7ad00f75e4d293ea1
+[I 13:41:24.516 NotebookApp] Starting buffering for ccabf3d0-9afc-4e1a-b5be-754612519133:98e45f7374d74e97896ead5a39a78150
+[I 13:41:24.523 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:e829596b7e1f4775934a6f6bc4a49aa4
+[I 13:41:26.180 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:e829596b7e1f4775934a6f6bc4a49aa4
+[I 13:41:26.205 NotebookApp] Restoring connection for 4bf1e783-fa64-45bd-b819-c0dfa7d2726c:4f2b36818d3549a7ad00f75e4d293ea1
+[I 13:41:26.226 NotebookApp] Restoring connection for ccabf3d0-9afc-4e1a-b5be-754612519133:98e45f7374d74e97896ead5a39a78150
+[I 13:41:26.245 NotebookApp] Restoring connection for d2aaa4b8-0d60-4d9c-9452-651deb629981:c40d29dc838a4c92adf0e27599aa6739
+[I 13:41:26.264 NotebookApp] Restoring connection for 9c4cff58-3111-43c1-8959-b20020585ec4:4f955b0635ad4329afe6e74ca3fdbc80
+[W 13:44:26.182 NotebookApp] WebSocket ping timeout after 119964 ms.
+[W 13:44:26.206 NotebookApp] WebSocket ping timeout after 119988 ms.
+[W 13:44:26.227 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 13:44:26.246 NotebookApp] WebSocket ping timeout after 119996 ms.
+[W 13:44:26.266 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 13:44:31.185 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:e829596b7e1f4775934a6f6bc4a49aa4
+[I 13:44:31.208 NotebookApp] Starting buffering for 4bf1e783-fa64-45bd-b819-c0dfa7d2726c:4f2b36818d3549a7ad00f75e4d293ea1
+[I 13:44:31.228 NotebookApp] Starting buffering for ccabf3d0-9afc-4e1a-b5be-754612519133:98e45f7374d74e97896ead5a39a78150
+[I 13:44:31.248 NotebookApp] Starting buffering for d2aaa4b8-0d60-4d9c-9452-651deb629981:c40d29dc838a4c92adf0e27599aa6739
+[I 13:44:31.268 NotebookApp] Starting buffering for 9c4cff58-3111-43c1-8959-b20020585ec4:4f955b0635ad4329afe6e74ca3fdbc80
+[I 14:40:45.621 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:e829596b7e1f4775934a6f6bc4a49aa4
+[I 14:40:45.970 NotebookApp] Restoring connection for 9c4cff58-3111-43c1-8959-b20020585ec4:4f955b0635ad4329afe6e74ca3fdbc80
+[I 14:40:46.040 NotebookApp] Restoring connection for d2aaa4b8-0d60-4d9c-9452-651deb629981:c40d29dc838a4c92adf0e27599aa6739
+[I 14:40:46.141 NotebookApp] Restoring connection for ccabf3d0-9afc-4e1a-b5be-754612519133:98e45f7374d74e97896ead5a39a78150
+[I 14:40:46.236 NotebookApp] Restoring connection for 4bf1e783-fa64-45bd-b819-c0dfa7d2726c:4f2b36818d3549a7ad00f75e4d293ea1
+[I 14:44:23.958 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:44:23.959 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 14:46:23.568 NotebookApp] Saving file at /neander_vis.ipynb
+[W 14:46:23.569 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:04:23.556 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:04:23.557 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:06:23.445 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:06:23.446 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:08:23.621 NotebookApp] Saving file at /neander_vis.ipynb
+[W 15:08:23.622 NotebookApp] Notebook neander_vis.ipynb is not trusted
+[I 15:54:35.833 NotebookApp] Starting buffering for 9c4cff58-3111-43c1-8959-b20020585ec4:4f955b0635ad4329afe6e74ca3fdbc80
+[I 15:54:35.834 NotebookApp] Starting buffering for 4bf1e783-fa64-45bd-b819-c0dfa7d2726c:4f2b36818d3549a7ad00f75e4d293ea1
+[I 15:54:35.834 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:e829596b7e1f4775934a6f6bc4a49aa4
+[I 15:54:35.835 NotebookApp] Starting buffering for ccabf3d0-9afc-4e1a-b5be-754612519133:98e45f7374d74e97896ead5a39a78150
+[I 15:54:35.835 NotebookApp] Starting buffering for d2aaa4b8-0d60-4d9c-9452-651deb629981:c40d29dc838a4c92adf0e27599aa6739
+[I 15:54:37.485 NotebookApp] Restoring connection for c2109882-ae2e-4dd6-85cc-00078364ddf8:e829596b7e1f4775934a6f6bc4a49aa4
+[I 15:54:37.511 NotebookApp] Restoring connection for 4bf1e783-fa64-45bd-b819-c0dfa7d2726c:4f2b36818d3549a7ad00f75e4d293ea1
+[I 15:54:37.555 NotebookApp] Restoring connection for d2aaa4b8-0d60-4d9c-9452-651deb629981:c40d29dc838a4c92adf0e27599aa6739
+[I 15:54:37.944 NotebookApp] Restoring connection for 9c4cff58-3111-43c1-8959-b20020585ec4:4f955b0635ad4329afe6e74ca3fdbc80
+[I 15:54:38.020 NotebookApp] Restoring connection for ccabf3d0-9afc-4e1a-b5be-754612519133:98e45f7374d74e97896ead5a39a78150
+[W 15:56:08.021 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 15:56:13.022 NotebookApp] Starting buffering for ccabf3d0-9afc-4e1a-b5be-754612519133:98e45f7374d74e97896ead5a39a78150
+[W 15:57:07.487 NotebookApp] WebSocket ping timeout after 92457 ms.
+[W 15:57:07.511 NotebookApp] WebSocket ping timeout after 92343 ms.
+[W 15:57:07.556 NotebookApp] WebSocket ping timeout after 92525 ms.
+[W 15:57:07.946 NotebookApp] WebSocket ping timeout after 92092 ms.
+[I 15:57:12.489 NotebookApp] Starting buffering for c2109882-ae2e-4dd6-85cc-00078364ddf8:e829596b7e1f4775934a6f6bc4a49aa4
+[I 15:57:12.513 NotebookApp] Starting buffering for 4bf1e783-fa64-45bd-b819-c0dfa7d2726c:4f2b36818d3549a7ad00f75e4d293ea1
+[I 15:57:12.557 NotebookApp] Starting buffering for d2aaa4b8-0d60-4d9c-9452-651deb629981:c40d29dc838a4c92adf0e27599aa6739
+[I 15:57:12.947 NotebookApp] Starting buffering for 9c4cff58-3111-43c1-8959-b20020585ec4:4f955b0635ad4329afe6e74ca3fdbc80

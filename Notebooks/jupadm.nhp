@@ -1,0 +1,16 @@
+[I 08:16:22.058 NotebookApp] The port 8888 is already in use, trying another port.
+[I 08:16:22.059 NotebookApp] The port 8889 is already in use, trying another port.
+[I 08:16:22.059 NotebookApp] The port 8890 is already in use, trying another port.
+[I 08:16:22.060 NotebookApp] Serving notebooks from local directory: /mnt/Drive1/ahenschel/SambaShare/YemenGenomeAnalysis/Notebooks
+[I 08:16:22.060 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 08:16:22.060 NotebookApp] http://localhost:8891/?token=85f8dc287662a1c9dd5dd54d3d2ec9976ec2d7d3eb9fc289
+[I 08:16:22.060 NotebookApp]  or http://127.0.0.1:8891/?token=85f8dc287662a1c9dd5dd54d3d2ec9976ec2d7d3eb9fc289
+[I 08:16:22.060 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 08:16:22.117 NotebookApp] No web browser found: could not locate runnable browser.
+[C 08:16:22.118 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ahenschel/.local/share/jupyter/runtime/nbserver-36611-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/?token=85f8dc287662a1c9dd5dd54d3d2ec9976ec2d7d3eb9fc289
+     or http://127.0.0.1:8891/?token=85f8dc287662a1c9dd5dd54d3d2ec9976ec2d7d3eb9fc289

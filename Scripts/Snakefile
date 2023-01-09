@@ -1,0 +1,276 @@
+import os
+
+SAMPLES = [x for x in next(os.walk('workdir'))[1] if not x.startswith('.')]
+# SAMPLES = ['16387_3', '16387_4']
+
+workdir: "/l/proj/kuin0025/YemeniWGS/workdir"
+
+# Tools.
+sentieon = "/apps/ku/gcc-9_3/sentieon/202010.01/bin/sentieon",
+
+##
+# Resources.
+# ---
+# Reference from http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/reference/GRCh38_reference_genome/
+# Resources from https://console.cloud.google.com/storage/browser/genomics-public-data/resources/broad/hg38/v0
+reference = ("/l/proj/kuin0025/hg38/GRCh38_full_analysis_set_plus_decoy_hla/"
+             "GRCh38_full_analysis_set_plus_decoy_hla.fa"),
+resources_dir = "/l/proj/kuin0025/Resources",
+indels_1000g = "Homo_sapiens_assembly38.known_indels.vcf.gz",
+snps_1000g = "1000G_phase1.snps.high_confidence.hg38.vcf.gz",
+omni_1000g = "1000G_omni2.5.hg38.vcf.gz",
+dbsnp = "Homo_sapiens_assembly38.dbsnp138.vcf",
+indels_gs = "Mills_and_1000G_gold_standard.indels.hg38.vcf.gz",
+hapmap = "hapmap_3.3.hg38.vcf.gz",
+
+##
+# Temporary directory
+# ---
+# Sentieon will use /tmp as temporary directory and jobs will fail if the
+# temporary directory is full. Set the allocated project directory as tmp.
+tmp_dir = "/l/proj/kuin0025/YemeniWGS/workdir/.tmp"
+
+rule all:
+	input:
+		# Index BAM.
+		expand("{sample}/raw.bam.bai", sample=SAMPLES),
+		# # Metrics.
+		# expand("{sample}/metrics/mq_metrics.txt", sample=SAMPLES),
+		# expand("{sample}/metrics/qd_metrics.txt", sample=SAMPLES),
+		# expand("{sample}/metrics/gc_summary.txt", sample=SAMPLES),
+		# expand("{sample}/metrics/gc_metrics.txt", sample=SAMPLES),
+		# expand("{sample}/metrics/aln_metrics.txt", sample=SAMPLES),
+		# expand("{sample}/metrics/is_metrics.txt", sample=SAMPLES),
+		# # Reports.
+		# expand("{sample}/metrics/mq_report.pdf", sample=SAMPLES),
+		# expand("{sample}/metrics/qd_report.pdf", sample=SAMPLES),
+		# expand("{sample}/metrics/gc_report.pdf", sample=SAMPLES),
+		# expand("{sample}/metrics/is_report.pdf", sample=SAMPLES),
+		# # Remove duplicates.
+		expand("{sample}/metrics/score.txt", sample=SAMPLES),
+		expand("{sample}/metrics/dedup_metrics.txt", sample=SAMPLES),
+		expand("{sample}/deduped.bam", sample=SAMPLES),
+		# Base recalibration.
+		expand("{sample}/recals/recal_data.table", sample=SAMPLES),
+		expand("{sample}/recals/recal_data.table.post", sample=SAMPLES),
+		expand("{sample}/recals/recal.csv", sample=SAMPLES),
+		expand("{sample}/recals/recal_plots.pdf", sample=SAMPLES),
+		# VCF
+		expand("{sample}/raw.g.vcf", sample=SAMPLES),
+		expand("output.vcf")
+
+rule bam_index:
+	message:
+		"Indexing BAM files."
+	input:
+		bam_file = "{sample}/raw.bam"
+	output:
+		bai_file = "{sample}/raw.bam.bai"
+	shell:
+		"""
+		sentieon util index {input}
+		"""
+
+rule bam_sort:
+	message:
+		"Sorting BAM files."
+	input:
+		bam_file = "{sample}/raw.bam",
+		bai_file = "{sample}/raw.bam.bai"
+	output:
+		"{sample}/sorted.bam"
+	threads:
+		16
+	shell:
+		"""
+		sentieon util sort \
+			-t {threads} \
+			-o {output} \
+			--temp_dir {tmp_dir} \
+			{input.bam_file}
+		"""
+
+rule sentieon_metrics:
+	message:
+		"""
+		Calculating metrics.
+		"""
+	input:
+		rules.bam_sort.output
+	output:
+		metrics_folder = "{sample}/metrics",
+		mq_metrics = "{sample}/metrics/mq_metrics.txt",
+		qd_metrics = "{sample}/metrics/qd_metrics.txt",
+		gc_summary = "{sample}/metrics/gc_summary.txt",
+		gc_metrics = "{sample}/metrics/gc_metrics.txt",
+		aln_metrics = "{sample}/metrics/aln_metrics.txt",
+		is_metrics = "{sample}/metrics/is_metrics.txt"
+	threads:
+		8
+	shell:
+		"""
+		mkdir -p {output.metrics_folder}
+		sentieon driver \
+			-r {reference} \
+			-t {threads} \
+			-i {input} \
+			--temp_dir {tmp_dir} \
+			--algo MeanQualityByCycle {output.mq_metrics} \
+			--algo QualDistribution {output.qd_metrics} \
+			--algo GCBias --summary {output.gc_summary} {output.gc_metrics} \
+			--algo AlignmentStat --adapter_seq '' {output.aln_metrics} \
+			--algo InsertSizeMetricAlgo {output.is_metrics}
+		"""
+
+rule sentieon_plot:
+	message:
+		"Plotting metrics into reports."
+	input:
+		gc_metrics = rules.sentieon_metrics.output.gc_metrics,
+		is_metrics = rules.sentieon_metrics.output.is_metrics,
+		mq_metrics = rules.sentieon_metrics.output.mq_metrics,
+		qd_metrics = rules.sentieon_metrics.output.qd_metrics
+	output:
+		gc_report = "{sample}/metrics/gc_report.pdf",
+		is_report = "{sample}/metrics/is_report.pdf",
+		mq_report = "{sample}/metrics/mq_report.pdf",
+		qd_report = "{sample}/metrics/qd_report.pdf"
+	shell:
+		"""
+		sentieon plot GCBias \
+			-o {output.gc_report} {input.gc_metrics}
+		sentieon plot InsertSizeMetricAlgo \
+			-o {output.is_report} {input.is_metrics}
+		sentieon plot QualDistribution \
+			-o {output.qd_report} {input.qd_metrics}
+		sentieon plot MeanQualityByCycle \
+			-o {output.mq_report} {input.mq_metrics}
+		"""
+
+rule remove_duplicates:
+	message:
+		"Removing duplicates in BAM."
+	input:
+		rules.bam_sort.output
+	output:
+		metrics_folder = "{sample}/metrics",
+		score = "{sample}/metrics/score.txt",
+		dedup_metrics = "{sample}/metrics/dedup_metrics.txt",
+		dedup_bam = "{sample}/deduped.bam"
+	threads:
+		16
+	shell:
+		"""
+		mkdir -p {output.metrics_folder}
+		sentieon driver \
+			-i {input} \
+			-t {threads} \
+			--temp_dir {tmp_dir} \
+			--algo LocusCollector \
+			--fun score_info \
+			{output.score}
+		sentieon driver \
+			-i {input} \
+			-t {threads} \
+			--temp_dir {tmp_dir} \
+			--algo Dedup \
+			--rmdup \
+			--score_info {output.score} \
+			--metrics {output.dedup_metrics} \
+			{output.dedup_bam}
+		"""
+
+rule base_recal:
+	message:
+		"Base recalibration table."
+	input:
+		rules.remove_duplicates.output.dedup_bam
+	output:
+		recal_table = "{sample}/recals/recal_data.table",
+		recal_table_post = "{sample}/recals/recal_data.table.post",
+		recal_csv = "{sample}/recals/recal.csv",
+		recal_plots = "{sample}/recals/recal_plots.pdf"
+	threads:
+		16
+	shell:
+		# Order of arguments matter here! -{i, r, t} must be before --algo.
+		"""
+		sentieon driver \
+			-i {input} \
+			-r {reference} \
+			-t {threads} \
+			--temp_dir {tmp_dir} \
+			--algo QualCal \
+			-k {resources_dir}/{indels_1000g} \
+			-k {resources_dir}/{indels_gs} \
+			-k {resources_dir}/{dbsnp} \
+			{output.recal_table}
+		sentieon driver \
+			-i {input} \
+			-r {reference} \
+			-q {output.recal_table} \
+			-t {threads} \
+			--temp_dir {tmp_dir} \
+			--algo QualCal \
+			-k {resources_dir}/{indels_1000g} \
+			-k {resources_dir}/{indels_gs} \
+			-k {resources_dir}/{dbsnp} \
+			{output.recal_table_post}
+		sentieon driver \
+			-t {threads} \
+			--temp_dir {tmp_dir} \
+			--algo QualCal \
+			--plot \
+			--before {output.recal_table} \
+			--after {output.recal_table_post} \
+			{output.recal_csv}
+		sentieon plot QualCal \
+			-o {output.recal_plots} \
+			{output.recal_csv}
+		"""
+
+rule variant_call:
+	message:
+		"Variant calling."
+	input:
+		dedup_bam = rules.remove_duplicates.output.dedup_bam,
+		recal_table = rules.base_recal.output.recal_table
+	output:
+		"{sample}/raw.g.vcf"
+	threads:
+		16
+	shell:
+		# Order of arguments matter here! -{i, r, t, q} must be before --algo
+		# but -d is after! WTH!!!!.
+		"""
+		sentieon driver \
+			-r {reference} \
+			-t {threads} \
+			-i {input.dedup_bam} \
+			-q {input.recal_table} \
+			--temp_dir {tmp_dir} \
+			--algo Haplotyper \
+			-d {resources_dir}/{dbsnp} \
+			--emit_mode=gvcf \
+			{output}
+		"""
+
+rule joint_genotyping:
+	message:
+		"Joint genotype calling."
+	input:
+		expand("{sample}/raw.g.vcf", sample=SAMPLES)
+	output:
+		"output.vcf"
+	threads:
+		32
+	shell:
+		"""
+		sentieon driver \
+			-r {reference} \
+			-t {threads} \
+			--temp_dir {tmp_dir} \
+			--algo GVCFtyper \
+			{output} \
+			{input}
+		"""

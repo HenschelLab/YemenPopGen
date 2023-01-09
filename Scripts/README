@@ -1,0 +1,9 @@
+Script collection for automizing PCA, Admixtools
+
+1. Merge of datasets
+genotype arrays are merged with f3prep1.sh and merge3 (for 3 genotype arrays).
+See inline comments for usage.
+
+2. Preparing PCA, admixtools
+see preparePops* scripts
+

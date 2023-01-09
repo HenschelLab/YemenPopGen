@@ -1,0 +1,14 @@
+ind=$1
+sed -i -E 's/\bLahij\b/Aden/g' $ind
+sed -i -E 's/\bDal\b/Aden/g' $ind
+#sed -i -E 's/\bAbyan\b/Aden/g' $ind
+
+#sed -i -E 's/\bJwf\b/Sheba/g' $ind
+sed -i -E 's/\bMaarib\b/Sheba/g' $ind
+sed -i -E 's/\bBayda\b/Sheba/g' $ind
+
+#sed -i -E 's/\bHdr\b/Hadramaut/g' $ind
+#sed -i -E 's/\bShb\b/Hadramaut/g' $ind
+
+
+

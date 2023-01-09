@@ -1,0 +1,1394 @@
+[I 14:21:34.939 NotebookApp] The port 8888 is already in use, trying another port.
+[I 14:21:34.940 NotebookApp] The port 8889 is already in use, trying another port.
+[I 14:21:34.940 NotebookApp] The port 8890 is already in use, trying another port.
+[I 14:21:34.940 NotebookApp] The port 8891 is already in use, trying another port.
+[I 14:21:34.940 NotebookApp] Serving notebooks from local directory: /home/ahenschel/Dropbox/Yemen/YemenGenomeAnalysis/Notebooks
+[I 14:21:34.941 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 14:21:34.941 NotebookApp] http://Hydrogen:8892/?token=0a20b25994c28f339262f4ca7173278eec476d1f2b55e008
+[I 14:21:34.941 NotebookApp]  or http://127.0.0.1:8892/?token=0a20b25994c28f339262f4ca7173278eec476d1f2b55e008
+[I 14:21:34.941 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:21:34.960 NotebookApp] No web browser found: could not locate runnable browser.
+[C 14:21:34.960 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ahenschel/.local/share/jupyter/runtime/nbserver-29654-open.html
+    Or copy and paste one of these URLs:
+        http://Hydrogen:8892/?token=0a20b25994c28f339262f4ca7173278eec476d1f2b55e008
+     or http://127.0.0.1:8892/?token=0a20b25994c28f339262f4ca7173278eec476d1f2b55e008
+[I 14:21:53.640 NotebookApp] 302 GET /?token=0a20b25994c28f339262f4ca7173278eec476d1f2b55e008 (10.14.0.57) 1.280000ms
+[W 14:25:28.746 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 14:25:29.481 NotebookApp] Kernel started: 3db0b143-be88-408f-99cb-a03bce4df9f2, name: python3
+[W 14:25:31.839 NotebookApp] Notebook ySTR.ipynb is not trusted
+[I 14:25:32.771 NotebookApp] Kernel started: e3034ebe-a400-4dd1-975f-394c1e272709, name: python3
+[I 14:27:30.270 NotebookApp] Saving file at /yemenMap.ipynb
+[W 14:27:30.271 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 14:27:33.971 NotebookApp] Saving file at /ySTR.ipynb
+[W 14:27:33.972 NotebookApp] Notebook ySTR.ipynb is not trusted
+[I 14:43:31.178 NotebookApp] Saving file at /yemenMap.ipynb
+[W 14:43:31.179 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 14:45:31.849 NotebookApp] Saving file at /yemenMap.ipynb
+[W 14:45:31.849 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 14:47:33.305 NotebookApp] Saving file at /yemenMap.ipynb
+[W 14:47:33.306 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 14:55:29.648 NotebookApp] Saving file at /yemenMap.ipynb
+[I 14:57:29.690 NotebookApp] Saving file at /yemenMap.ipynb
+[I 14:59:29.673 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:01:29.666 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:03:29.718 NotebookApp] Saving file at /yemenMap.ipynb
+[W 15:07:05.384 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 15:07:07.414 NotebookApp] Kernel started: d51fac8b-cbc5-4959-ab87-5193220d5b1c, name: python3
+[I 15:09:08.283 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 15:09:08.284 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 15:19:29.710 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:21:29.876 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:23:29.868 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:25:30.193 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:29:29.881 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:31:29.892 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:33:29.687 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:35:29.697 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:37:29.730 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:39:29.715 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:41:29.856 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:43:29.694 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:55:29.723 NotebookApp] Saving file at /yemenMap.ipynb
+[I 15:59:10.642 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 15:59:10.643 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:01:08.362 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:01:08.363 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:17:08.533 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:17:08.534 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:19:08.645 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:19:08.646 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:21:08.522 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:21:08.524 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:23:08.518 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:23:08.519 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:33:08.457 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:33:08.458 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:37:08.315 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:37:08.316 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:39:08.481 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:39:08.482 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:41:08.293 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:41:08.294 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:51:08.508 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:51:08.508 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:53:08.457 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:53:08.458 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:55:08.514 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:55:08.515 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 16:57:08.813 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 16:57:08.814 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 17:07:08.309 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 17:07:08.310 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 17:09:08.306 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 17:09:08.307 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 17:11:08.339 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 17:11:08.340 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 17:15:08.539 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 17:15:08.539 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 17:17:08.570 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 17:17:08.571 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 17:19:09.339 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 17:19:09.340 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: b15af81ed7974fb78e726e0df4276f89
+[I 17:21:08.822 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 17:21:08.823 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: b083b8ee81744da885331ad1edce071d
+[I 17:23:08.860 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 17:23:08.861 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 17:47:08.615 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 17:47:08.616 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 17:49:08.605 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 17:49:08.606 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 17:51:12.055 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 17:51:12.056 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 19:53:08.674 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 19:53:08.675 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 19:55:08.671 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 19:55:08.672 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: b15af81ed7974fb78e726e0df4276f89
+[IPKernelApp] WARNING | No such comm: 9663e83ca1284d26af77bc3515891b35
+[IPKernelApp] WARNING | No such comm: b083b8ee81744da885331ad1edce071d
+[IPKernelApp] WARNING | No such comm: 3804f162495e48eab98a58caf7fed8e2
+[I 19:57:08.617 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 19:57:08.618 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 20:03:08.594 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 20:03:08.595 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 20:05:08.840 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 20:05:08.841 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 20:07:09.131 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 20:07:09.132 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 20:29:08.784 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 20:29:08.785 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: b083b8ee81744da885331ad1edce071d
+[IPKernelApp] WARNING | No such comm: 3804f162495e48eab98a58caf7fed8e2
+[IPKernelApp] WARNING | No such comm: 94c63dc41b66432389bc7f302fdffb4b
+[IPKernelApp] WARNING | No such comm: b083b8ee81744da885331ad1edce071d
+[IPKernelApp] WARNING | No such comm: 3804f162495e48eab98a58caf7fed8e2
+[IPKernelApp] WARNING | No such comm: 94c63dc41b66432389bc7f302fdffb4b
+[IPKernelApp] WARNING | No such comm: 5b1f7871e5b540c7a501a19831705212
+[I 20:31:08.488 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 20:31:08.489 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 20:33:30.210 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:35:30.112 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:37:30.096 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:39:30.099 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:41:30.071 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:43:30.160 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:45:30.070 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:47:30.098 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:49:30.360 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:51:30.069 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:53:30.124 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:55:30.640 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:57:33.050 NotebookApp] Saving file at /yemenMap.ipynb
+[I 20:59:32.153 NotebookApp] Saving file at /yemenMap.ipynb
+[I 21:01:33.035 NotebookApp] Saving file at /yemenMap.ipynb
+[I 21:03:30.109 NotebookApp] Saving file at /yemenMap.ipynb
+[I 21:05:30.389 NotebookApp] Saving file at /yemenMap.ipynb
+[IPKernelApp] WARNING | No such comm: b083b8ee81744da885331ad1edce071d
+[IPKernelApp] WARNING | No such comm: 3804f162495e48eab98a58caf7fed8e2
+[IPKernelApp] WARNING | No such comm: 94c63dc41b66432389bc7f302fdffb4b
+[IPKernelApp] WARNING | No such comm: 5b1f7871e5b540c7a501a19831705212
+[IPKernelApp] WARNING | No such comm: 0a9b308c6ddd4460a157d557a82c33a4
+[IPKernelApp] WARNING | No such comm: b083b8ee81744da885331ad1edce071d
+[IPKernelApp] WARNING | No such comm: 3804f162495e48eab98a58caf7fed8e2
+[IPKernelApp] WARNING | No such comm: 94c63dc41b66432389bc7f302fdffb4b
+[IPKernelApp] WARNING | No such comm: 5b1f7871e5b540c7a501a19831705212
+[IPKernelApp] WARNING | No such comm: 0a9b308c6ddd4460a157d557a82c33a4
+[IPKernelApp] WARNING | No such comm: b6d924cf4d3c487bad240c2931d961c3
+[I 21:07:09.276 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 21:07:09.277 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: b083b8ee81744da885331ad1edce071d
+[IPKernelApp] WARNING | No such comm: 3804f162495e48eab98a58caf7fed8e2
+[IPKernelApp] WARNING | No such comm: 94c63dc41b66432389bc7f302fdffb4b
+[IPKernelApp] WARNING | No such comm: 5b1f7871e5b540c7a501a19831705212
+[IPKernelApp] WARNING | No such comm: 0a9b308c6ddd4460a157d557a82c33a4
+[IPKernelApp] WARNING | No such comm: b6d924cf4d3c487bad240c2931d961c3
+[IPKernelApp] WARNING | No such comm: ac1dd136ad804e6782c09eb0cf47800d
+[I 21:09:08.956 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 21:09:08.957 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 21:11:09.007 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 21:11:09.008 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 21:13:09.483 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 21:13:09.484 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[W 21:59:30.111 NotebookApp] WebSocket ping timeout after 119991 ms.
+[W 21:59:33.338 NotebookApp] WebSocket ping timeout after 119990 ms.
+[I 21:59:35.113 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:9b486d950f2b4d328f84a9de6ead9715
+[W 21:59:37.969 NotebookApp] WebSocket ping timeout after 119990 ms.
+[I 21:59:38.340 NotebookApp] Starting buffering for e3034ebe-a400-4dd1-975f-394c1e272709:916e8f6d573241de8d7d4a095e74d5a8
+[I 21:59:42.972 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8ec84e2bde194afd83f26e80c3ac00b3
+[I 08:10:00.093 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8ec84e2bde194afd83f26e80c3ac00b3
+[I 08:10:50.170 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:10:50.171 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 19805bf6841c4fd7b08f6ed5493d1cfa
+[IPKernelApp] WARNING | No such comm: 335f1be426d14f96baa72ce8f593c0d1
+[I 08:12:50.095 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:12:50.096 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:22:50.165 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:22:50.166 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:24:50.167 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:24:50.168 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:26:50.089 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:26:50.089 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:28:50.154 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:28:50.155 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:30:50.067 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:30:50.068 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:32:50.156 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:32:50.157 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:36:50.199 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:36:50.200 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:38:50.200 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:38:50.201 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:40:50.148 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:40:50.149 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:44:50.103 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:44:50.104 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:46:50.146 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:46:50.147 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 78be4273c2344070a47e7a5d189adf0d
+[IPKernelApp] WARNING | No such comm: 78be4273c2344070a47e7a5d189adf0d
+[IPKernelApp] WARNING | No such comm: fb97b742520e4390a64b32123698dc77
+[I 08:48:50.117 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:48:50.118 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:50:50.141 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:50:50.142 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:52:50.113 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:52:50.114 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:56:50.279 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:56:50.280 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 08:58:50.095 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 08:58:50.096 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:00:50.060 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:00:50.061 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 78be4273c2344070a47e7a5d189adf0d
+[IPKernelApp] WARNING | No such comm: fb97b742520e4390a64b32123698dc77
+[IPKernelApp] WARNING | No such comm: 09cde3c0b6164e2cbb8ca74328357974
+[I 09:04:50.183 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:04:50.184 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:06:50.071 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:06:50.072 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:08:50.142 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:08:50.143 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:10:50.150 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:10:50.151 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 78be4273c2344070a47e7a5d189adf0d
+[IPKernelApp] WARNING | No such comm: fb97b742520e4390a64b32123698dc77
+[IPKernelApp] WARNING | No such comm: 09cde3c0b6164e2cbb8ca74328357974
+[IPKernelApp] WARNING | No such comm: 49e6334edc6948c18650355ecc995317
+[IPKernelApp] WARNING | No such comm: 78be4273c2344070a47e7a5d189adf0d
+[IPKernelApp] WARNING | No such comm: fb97b742520e4390a64b32123698dc77
+[IPKernelApp] WARNING | No such comm: 09cde3c0b6164e2cbb8ca74328357974
+[IPKernelApp] WARNING | No such comm: 49e6334edc6948c18650355ecc995317
+[IPKernelApp] WARNING | No such comm: b546d4dcf72b4025b67b706b371c904e
+[IPKernelApp] WARNING | No such comm: 78be4273c2344070a47e7a5d189adf0d
+[IPKernelApp] WARNING | No such comm: fb97b742520e4390a64b32123698dc77
+[IPKernelApp] WARNING | No such comm: 09cde3c0b6164e2cbb8ca74328357974
+[IPKernelApp] WARNING | No such comm: 49e6334edc6948c18650355ecc995317
+[IPKernelApp] WARNING | No such comm: b546d4dcf72b4025b67b706b371c904e
+[IPKernelApp] WARNING | No such comm: 285c4c06c9024bd08ad62038afda3e9a
+[I 09:12:50.147 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:12:50.148 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:14:50.134 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:14:50.135 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:20:50.153 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:20:50.154 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:22:11.312 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8ec84e2bde194afd83f26e80c3ac00b3
+[I 09:22:12.671 NotebookApp] Kernel restarted: d51fac8b-cbc5-4959-ab87-5193220d5b1c
+[I 09:22:12.711 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8ec84e2bde194afd83f26e80c3ac00b3
+[I 09:22:13.209 NotebookApp] Replaying 7 buffered messages
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 213406ce96d34b6f812217552a7060f8
+[IPKernelApp] WARNING | No such comm: 08b251648c8e408da47f72ac73a7751a
+[I 09:22:50.100 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:22:50.101 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[I 09:24:50.063 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:24:50.064 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: b15af81ed7974fb78e726e0df4276f89
+[IPKernelApp] WARNING | No such comm: 9663e83ca1284d26af77bc3515891b35
+[IPKernelApp] WARNING | No such comm: e8c9442db77e41158f9cc1eac0fb3612
+[IPKernelApp] WARNING | No such comm: b15af81ed7974fb78e726e0df4276f89
+[IPKernelApp] WARNING | No such comm: 9663e83ca1284d26af77bc3515891b35
+[IPKernelApp] WARNING | No such comm: e8c9442db77e41158f9cc1eac0fb3612
+[I 09:26:50.145 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:26:50.146 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[I 09:28:50.088 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:28:50.089 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[I 09:30:50.217 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:30:50.218 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:34:50.112 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:34:50.113 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:36:50.070 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:36:50.071 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:38:50.141 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:38:50.142 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:40:50.159 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:40:50.160 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:42:50.185 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:42:50.186 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[I 09:44:50.253 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:44:50.254 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[I 09:46:50.105 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:46:50.106 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 09:52:50.172 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:52:50.173 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 2cbab4be4ba74eeca18e8983718baed5
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 2cbab4be4ba74eeca18e8983718baed5
+[IPKernelApp] WARNING | No such comm: f3e23fc5ad7f43069c1f5075ec607323
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 2cbab4be4ba74eeca18e8983718baed5
+[IPKernelApp] WARNING | No such comm: f3e23fc5ad7f43069c1f5075ec607323
+[IPKernelApp] WARNING | No such comm: 7644beb5d93e460b8ef7f3181f4f4661
+[I 09:54:50.148 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:54:50.149 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 2cbab4be4ba74eeca18e8983718baed5
+[IPKernelApp] WARNING | No such comm: f3e23fc5ad7f43069c1f5075ec607323
+[IPKernelApp] WARNING | No such comm: 7644beb5d93e460b8ef7f3181f4f4661
+[IPKernelApp] WARNING | No such comm: f471a4f668a146eab49e86a3a08701aa
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 2cbab4be4ba74eeca18e8983718baed5
+[IPKernelApp] WARNING | No such comm: f3e23fc5ad7f43069c1f5075ec607323
+[IPKernelApp] WARNING | No such comm: 7644beb5d93e460b8ef7f3181f4f4661
+[IPKernelApp] WARNING | No such comm: f471a4f668a146eab49e86a3a08701aa
+[IPKernelApp] WARNING | No such comm: d89563704fe34648b04344f893cdeb11
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 2cbab4be4ba74eeca18e8983718baed5
+[IPKernelApp] WARNING | No such comm: f3e23fc5ad7f43069c1f5075ec607323
+[IPKernelApp] WARNING | No such comm: 7644beb5d93e460b8ef7f3181f4f4661
+[IPKernelApp] WARNING | No such comm: f471a4f668a146eab49e86a3a08701aa
+[IPKernelApp] WARNING | No such comm: d89563704fe34648b04344f893cdeb11
+[IPKernelApp] WARNING | No such comm: 73cfc4cbc6484cb88035f09308dddc9d
+[I 09:56:50.219 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:56:50.220 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 2cbab4be4ba74eeca18e8983718baed5
+[IPKernelApp] WARNING | No such comm: f3e23fc5ad7f43069c1f5075ec607323
+[IPKernelApp] WARNING | No such comm: 7644beb5d93e460b8ef7f3181f4f4661
+[IPKernelApp] WARNING | No such comm: f471a4f668a146eab49e86a3a08701aa
+[IPKernelApp] WARNING | No such comm: d89563704fe34648b04344f893cdeb11
+[IPKernelApp] WARNING | No such comm: 73cfc4cbc6484cb88035f09308dddc9d
+[IPKernelApp] WARNING | No such comm: 5e760c4aa01d4a2e9e622ce981ba94f3
+[I 09:58:50.191 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 09:58:50.192 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 2cbab4be4ba74eeca18e8983718baed5
+[IPKernelApp] WARNING | No such comm: f3e23fc5ad7f43069c1f5075ec607323
+[IPKernelApp] WARNING | No such comm: 7644beb5d93e460b8ef7f3181f4f4661
+[IPKernelApp] WARNING | No such comm: f471a4f668a146eab49e86a3a08701aa
+[IPKernelApp] WARNING | No such comm: d89563704fe34648b04344f893cdeb11
+[IPKernelApp] WARNING | No such comm: 73cfc4cbc6484cb88035f09308dddc9d
+[IPKernelApp] WARNING | No such comm: 5e760c4aa01d4a2e9e622ce981ba94f3
+[IPKernelApp] WARNING | No such comm: 4242ed90e995415280187e702ca11c97
+[I 10:00:52.383 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:00:52.384 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 2cbab4be4ba74eeca18e8983718baed5
+[IPKernelApp] WARNING | No such comm: f3e23fc5ad7f43069c1f5075ec607323
+[IPKernelApp] WARNING | No such comm: 7644beb5d93e460b8ef7f3181f4f4661
+[IPKernelApp] WARNING | No such comm: f471a4f668a146eab49e86a3a08701aa
+[IPKernelApp] WARNING | No such comm: d89563704fe34648b04344f893cdeb11
+[IPKernelApp] WARNING | No such comm: 73cfc4cbc6484cb88035f09308dddc9d
+[IPKernelApp] WARNING | No such comm: 5e760c4aa01d4a2e9e622ce981ba94f3
+[IPKernelApp] WARNING | No such comm: 4242ed90e995415280187e702ca11c97
+[IPKernelApp] WARNING | No such comm: 5a616b9577ec4e8d85173800fd18a319
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 2cbab4be4ba74eeca18e8983718baed5
+[IPKernelApp] WARNING | No such comm: f3e23fc5ad7f43069c1f5075ec607323
+[IPKernelApp] WARNING | No such comm: 7644beb5d93e460b8ef7f3181f4f4661
+[IPKernelApp] WARNING | No such comm: f471a4f668a146eab49e86a3a08701aa
+[IPKernelApp] WARNING | No such comm: d89563704fe34648b04344f893cdeb11
+[IPKernelApp] WARNING | No such comm: 73cfc4cbc6484cb88035f09308dddc9d
+[IPKernelApp] WARNING | No such comm: 5e760c4aa01d4a2e9e622ce981ba94f3
+[IPKernelApp] WARNING | No such comm: 4242ed90e995415280187e702ca11c97
+[IPKernelApp] WARNING | No such comm: 5a616b9577ec4e8d85173800fd18a319
+[IPKernelApp] WARNING | No such comm: 53c5be3980384595b70f1c24d6887d6e
+[I 10:02:50.168 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:02:50.169 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 57b64b2204d34d1e9d53315e07f15daf
+[IPKernelApp] WARNING | No such comm: d06a00863ee54c1a9b2cd81c9dde9a45
+[IPKernelApp] WARNING | No such comm: f4d5735c5c7c4e9ab4abe8939a780a68
+[IPKernelApp] WARNING | No such comm: 37d0888d700245f2bafd62e81bc4fbd0
+[IPKernelApp] WARNING | No such comm: 095a3977b08b451c91ff35f655ebf395
+[IPKernelApp] WARNING | No such comm: 866bf1c362c54d2ab5fa323c8d71dbf5
+[IPKernelApp] WARNING | No such comm: 73ca0b50c5d44a49bc34ab946b06203d
+[IPKernelApp] WARNING | No such comm: 6ff2287f507440d59b0dfc43a6f1e3c8
+[IPKernelApp] WARNING | No such comm: 2cbab4be4ba74eeca18e8983718baed5
+[IPKernelApp] WARNING | No such comm: f3e23fc5ad7f43069c1f5075ec607323
+[IPKernelApp] WARNING | No such comm: 7644beb5d93e460b8ef7f3181f4f4661
+[IPKernelApp] WARNING | No such comm: f471a4f668a146eab49e86a3a08701aa
+[IPKernelApp] WARNING | No such comm: d89563704fe34648b04344f893cdeb11
+[IPKernelApp] WARNING | No such comm: 73cfc4cbc6484cb88035f09308dddc9d
+[IPKernelApp] WARNING | No such comm: 5e760c4aa01d4a2e9e622ce981ba94f3
+[IPKernelApp] WARNING | No such comm: 4242ed90e995415280187e702ca11c97
+[IPKernelApp] WARNING | No such comm: 5a616b9577ec4e8d85173800fd18a319
+[IPKernelApp] WARNING | No such comm: 53c5be3980384595b70f1c24d6887d6e
+[IPKernelApp] WARNING | No such comm: 05fe554962ae4269af86090447adaaea
+[I 10:04:50.259 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:04:50.260 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:06:50.350 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:06:50.351 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:08:51.210 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:08:51.211 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:10:51.263 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:10:51.264 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:11:47.658 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8ec84e2bde194afd83f26e80c3ac00b3
+[I 10:11:48.781 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8ec84e2bde194afd83f26e80c3ac00b3
+[W 10:13:18.782 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 10:13:23.785 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8ec84e2bde194afd83f26e80c3ac00b3
+[W 10:17:27.718 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:19:33.287 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:19:33.288 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:21:33.193 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:21:33.194 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:23:33.205 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:23:33.206 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:25:33.170 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:25:33.171 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 4997947255cc433f9500c6de2d2c9455
+[IPKernelApp] WARNING | No such comm: 4997947255cc433f9500c6de2d2c9455
+[IPKernelApp] WARNING | No such comm: 4b44ef1108d14b6f80115e721e1847d0
+[I 10:27:33.177 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:27:33.178 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: a05da059f36d4de18eee3eec9cc9c4a7
+[I 10:29:33.166 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:29:33.166 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 4997947255cc433f9500c6de2d2c9455
+[IPKernelApp] WARNING | No such comm: 4b44ef1108d14b6f80115e721e1847d0
+[IPKernelApp] WARNING | No such comm: 68c7ea1af9cb4c2cbbb81257b6b8f67c
+[IPKernelApp] WARNING | No such comm: a05da059f36d4de18eee3eec9cc9c4a7
+[IPKernelApp] WARNING | No such comm: 83aba39efaa94249964e6c5bdcd7963d
+[IPKernelApp] WARNING | No such comm: a05da059f36d4de18eee3eec9cc9c4a7
+[IPKernelApp] WARNING | No such comm: 83aba39efaa94249964e6c5bdcd7963d
+[IPKernelApp] WARNING | No such comm: d0679e3584744bd9b0a46fde1db03f29
+[IPKernelApp] WARNING | No such comm: a05da059f36d4de18eee3eec9cc9c4a7
+[IPKernelApp] WARNING | No such comm: 83aba39efaa94249964e6c5bdcd7963d
+[IPKernelApp] WARNING | No such comm: d0679e3584744bd9b0a46fde1db03f29
+[IPKernelApp] WARNING | No such comm: abd75bcc16a943c195aff10df4d63ed8
+[I 10:31:33.183 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:31:33.184 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: a05da059f36d4de18eee3eec9cc9c4a7
+[IPKernelApp] WARNING | No such comm: 83aba39efaa94249964e6c5bdcd7963d
+[IPKernelApp] WARNING | No such comm: d0679e3584744bd9b0a46fde1db03f29
+[IPKernelApp] WARNING | No such comm: abd75bcc16a943c195aff10df4d63ed8
+[IPKernelApp] WARNING | No such comm: 8e7afeb675924be196d8e22d90ede34b
+[IPKernelApp] WARNING | No such comm: 757d2ed98ec34b4fae809eccc18ef3b4
+[IPKernelApp] WARNING | No such comm: a05da059f36d4de18eee3eec9cc9c4a7
+[IPKernelApp] WARNING | No such comm: 83aba39efaa94249964e6c5bdcd7963d
+[IPKernelApp] WARNING | No such comm: d0679e3584744bd9b0a46fde1db03f29
+[IPKernelApp] WARNING | No such comm: abd75bcc16a943c195aff10df4d63ed8
+[IPKernelApp] WARNING | No such comm: 8e7afeb675924be196d8e22d90ede34b
+[IPKernelApp] WARNING | No such comm: 6a881522cc124878a6c874e2dc413b9c
+[IPKernelApp] WARNING | No such comm: 4997947255cc433f9500c6de2d2c9455
+[IPKernelApp] WARNING | No such comm: 4b44ef1108d14b6f80115e721e1847d0
+[IPKernelApp] WARNING | No such comm: 68c7ea1af9cb4c2cbbb81257b6b8f67c
+[IPKernelApp] WARNING | No such comm: 031880abd4d348e8826ce87536610ae4
+[I 10:33:13.548 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 10:33:14.601 NotebookApp] Kernel restarted: d51fac8b-cbc5-4959-ab87-5193220d5b1c
+[I 10:33:14.735 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 10:33:15.184 NotebookApp] Replaying 9 buffered messages
+[IPKernelApp] WARNING | No such comm: 430bd4a8240f4d1c949688ddb00d5820
+[IPKernelApp] WARNING | No such comm: 37e14f322f4c424ca70b4273f74cdefa
+[IPKernelApp] WARNING | No such comm: b7bda7dabd75422b95d2e710ee646fbd
+[I 10:33:33.171 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:33:33.172 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:35:33.194 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:35:33.195 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 4997947255cc433f9500c6de2d2c9455
+[IPKernelApp] WARNING | No such comm: 4b44ef1108d14b6f80115e721e1847d0
+[IPKernelApp] WARNING | No such comm: 68c7ea1af9cb4c2cbbb81257b6b8f67c
+[IPKernelApp] WARNING | No such comm: 031880abd4d348e8826ce87536610ae4
+[IPKernelApp] WARNING | No such comm: 361cb6cdccbd47b191b71ce8c4a80388
+[IPKernelApp] WARNING | No such comm: 4997947255cc433f9500c6de2d2c9455
+[IPKernelApp] WARNING | No such comm: 4b44ef1108d14b6f80115e721e1847d0
+[IPKernelApp] WARNING | No such comm: 68c7ea1af9cb4c2cbbb81257b6b8f67c
+[IPKernelApp] WARNING | No such comm: 031880abd4d348e8826ce87536610ae4
+[IPKernelApp] WARNING | No such comm: 361cb6cdccbd47b191b71ce8c4a80388
+[IPKernelApp] WARNING | No such comm: 757d2ed98ec34b4fae809eccc18ef3b4
+[IPKernelApp] WARNING | No such comm: 91027699670446f8afc8a886d7ef6482
+[IPKernelApp] WARNING | No such comm: a05da059f36d4de18eee3eec9cc9c4a7
+[IPKernelApp] WARNING | No such comm: 83aba39efaa94249964e6c5bdcd7963d
+[IPKernelApp] WARNING | No such comm: d0679e3584744bd9b0a46fde1db03f29
+[IPKernelApp] WARNING | No such comm: abd75bcc16a943c195aff10df4d63ed8
+[IPKernelApp] WARNING | No such comm: 8e7afeb675924be196d8e22d90ede34b
+[IPKernelApp] WARNING | No such comm: 6a881522cc124878a6c874e2dc413b9c
+[IPKernelApp] WARNING | No such comm: 18ceff02a9ec4ae8ae5d5c3da2b79983
+[I 10:37:33.161 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:37:33.162 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: a05da059f36d4de18eee3eec9cc9c4a7
+[IPKernelApp] WARNING | No such comm: 83aba39efaa94249964e6c5bdcd7963d
+[IPKernelApp] WARNING | No such comm: d0679e3584744bd9b0a46fde1db03f29
+[IPKernelApp] WARNING | No such comm: abd75bcc16a943c195aff10df4d63ed8
+[IPKernelApp] WARNING | No such comm: 8e7afeb675924be196d8e22d90ede34b
+[IPKernelApp] WARNING | No such comm: 6a881522cc124878a6c874e2dc413b9c
+[IPKernelApp] WARNING | No such comm: 18ceff02a9ec4ae8ae5d5c3da2b79983
+[W 10:37:55.976 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 10:39:33.227 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 10:39:33.228 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:39:56.715 NotebookApp] Saving file at /yemenMap.ipynb
+[W 10:39:56.715 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 10:41:56.697 NotebookApp] Saving file at /yemenMap.ipynb
+[W 10:41:56.697 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 10:43:56.693 NotebookApp] Saving file at /yemenMap.ipynb
+[W 10:43:56.694 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 10:45:56.730 NotebookApp] Saving file at /yemenMap.ipynb
+[W 10:45:56.730 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 11:39:33.345 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 11:39:33.346 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 12:29:33.336 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 12:29:33.337 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 12:31:33.308 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 12:31:33.309 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 0af6bc4b27b541c98b751c893425d287
+[IPKernelApp] WARNING | No such comm: 0af6bc4b27b541c98b751c893425d287
+[IPKernelApp] WARNING | No such comm: e9f5cd44350a426e8b412405ca5cf24a
+[I 12:33:33.302 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 12:33:33.303 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[IPKernelApp] WARNING | No such comm: 0af6bc4b27b541c98b751c893425d287
+[IPKernelApp] WARNING | No such comm: e9f5cd44350a426e8b412405ca5cf24a
+[IPKernelApp] WARNING | No such comm: d1deeedaad304efab52f366798551d57
+[I 12:37:34.417 NotebookApp] Saving file at /smartPCA_viz.ipynb
+[W 12:37:34.418 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 13:59:53.646 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 13:59:53.648 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 13:59:55.572 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 13:59:55.606 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[W 14:02:25.575 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 14:02:25.607 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 14:02:30.579 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 14:02:30.608 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 14:41:10.335 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 14:41:10.479 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 14:46:35.858 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 14:46:35.870 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 14:46:37.653 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 14:46:37.685 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[W 14:49:07.657 NotebookApp] WebSocket ping timeout after 91108 ms.
+[W 14:49:07.686 NotebookApp] WebSocket ping timeout after 92569 ms.
+[I 14:49:12.659 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 14:49:12.688 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 16:18:57.200 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 16:18:58.191 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 16:25:58.662 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 16:25:58.663 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 16:26:00.371 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 16:26:00.532 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[W 16:28:30.372 NotebookApp] WebSocket ping timeout after 93328 ms.
+[W 16:28:30.533 NotebookApp] WebSocket ping timeout after 100725 ms.
+[I 16:28:35.376 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 16:28:35.534 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 08:51:49.092 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 08:51:50.141 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 08:53:42.473 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 08:53:42.473 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 08:53:44.951 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 08:53:45.011 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[W 08:56:14.953 NotebookApp] WebSocket ping timeout after 119996 ms.
+[W 08:56:15.011 NotebookApp] WebSocket ping timeout after 119988 ms.
+[I 08:56:19.956 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 08:56:20.013 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 09:03:06.357 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 09:03:06.384 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[W 09:05:36.359 NotebookApp] WebSocket ping timeout after 92058 ms.
+[W 09:05:36.385 NotebookApp] WebSocket ping timeout after 92721 ms.
+[I 09:05:41.363 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 09:05:41.387 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 09:51:00.078 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 09:51:01.080 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 09:53:06.695 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 09:53:06.696 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 09:53:08.083 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 09:53:08.121 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[W 09:55:38.087 NotebookApp] WebSocket ping timeout after 92284 ms.
+[W 09:55:38.121 NotebookApp] WebSocket ping timeout after 92600 ms.
+[I 09:55:43.089 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 09:55:43.122 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 10:29:54.418 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 10:29:54.530 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 10:32:00.129 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 10:32:00.130 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 10:32:01.893 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 10:32:01.920 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[W 10:34:31.896 NotebookApp] WebSocket ping timeout after 119983 ms.
+[W 10:34:31.921 NotebookApp] WebSocket ping timeout after 119992 ms.
+[I 10:34:36.900 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 10:34:36.922 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 10:44:14.066 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 10:44:14.101 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[W 10:46:44.069 NotebookApp] WebSocket ping timeout after 119989 ms.
+[W 10:46:44.101 NotebookApp] WebSocket ping timeout after 119991 ms.
+[I 10:46:49.071 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 10:46:49.103 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 11:24:11.196 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 11:24:11.239 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 11:28:55.503 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 11:28:55.503 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 11:28:57.200 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 11:28:57.237 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[W 11:30:27.201 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 11:30:27.239 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 11:30:32.205 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 11:30:32.241 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 11:56:33.163 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 11:56:33.188 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 12:24:53.226 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 12:24:53.227 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 12:24:55.017 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 12:24:55.074 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[W 12:28:25.019 NotebookApp] WebSocket ping timeout after 119909 ms.
+[W 12:28:25.075 NotebookApp] WebSocket ping timeout after 119964 ms.
+[I 12:28:30.021 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:1a0006e85cd748878bf5e63dd862bbb1
+[I 12:28:30.076 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:775c45b7885a4e138be1f849b11d0e80
+[I 09:17:22.749 NotebookApp] 302 GET /?token=0a20b25994c28f339262f4ca7173278eec476d1f2b55e008 (10.11.46.37) 0.960000ms
+[W 11:10:40.479 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 11:29:46.858 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:22c4067609e94109a5c94fec4fb66ddc
+[I 11:29:48.239 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:22c4067609e94109a5c94fec4fb66ddc
+[W 11:32:18.241 NotebookApp] WebSocket ping timeout after 92273 ms.
+[I 11:32:23.244 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:22c4067609e94109a5c94fec4fb66ddc
+[I 11:54:47.667 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:22c4067609e94109a5c94fec4fb66ddc
+[W 17:12:22.706 NotebookApp] Replacing stale connection: d51fac8b-cbc5-4959-ab87-5193220d5b1c:22c4067609e94109a5c94fec4fb66ddc
+[I 17:12:27.709 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:22c4067609e94109a5c94fec4fb66ddc
+[I 17:12:27.711 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:22c4067609e94109a5c94fec4fb66ddc
+[I 17:35:45.369 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:22c4067609e94109a5c94fec4fb66ddc
+[I 17:35:47.523 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:22c4067609e94109a5c94fec4fb66ddc
+[W 17:38:17.523 NotebookApp] WebSocket ping timeout after 93124 ms.
+[I 17:38:22.528 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:22c4067609e94109a5c94fec4fb66ddc
+[W 10:22:49.606 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:26:22.076 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:fa5b2dd06ade4ba7a9828f796982b504
+[W 10:26:22.469 NotebookApp] Notebook popmeta2plinkfam.ipynb is not trusted
+[I 10:26:22.896 NotebookApp] Kernel started: 45a754ca-3583-49d8-b1eb-7a88af65694c, name: python3
+[I 10:27:03.316 NotebookApp] Creating new notebook in 
+[I 10:27:04.458 NotebookApp] Kernel started: 9fa0580f-330d-4047-abfa-3cf78efc09d5, name: python3
+[I 10:28:24.048 NotebookApp] Saving file at /popmeta2plinkfam.ipynb
+[W 10:28:24.049 NotebookApp] Notebook popmeta2plinkfam.ipynb is not trusted
+[I 10:29:04.487 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:31:09.965 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:31:14.537 NotebookApp] 302 GET / (10.14.0.50) 0.880000ms
+[W 10:31:30.772 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[I 10:31:31.466 NotebookApp] Kernel started: f0adcd51-dded-46f8-b149-bf1f74623e87, name: python3
+[W 10:33:10.682 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 10:33:13.993 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:39:07.117 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:41:07.018 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:43:07.481 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:45:06.797 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:47:07.106 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:49:06.715 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:51:06.530 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:53:07.216 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:55:08.268 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 10:57:06.092 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:12:23.064 NotebookApp] Saving file at /popmeta2plinkfam.ipynb
+[W 11:12:23.065 NotebookApp] Notebook popmeta2plinkfam.ipynb is not trusted
+[I 11:13:07.391 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:15:06.535 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:17:06.783 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:19:05.749 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:21:06.521 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:23:06.239 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:25:06.146 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:27:06.212 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:29:06.827 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:31:06.242 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:33:07.340 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:49:16.226 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:53:37.784 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:55:48.798 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 11:57:58.681 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 14:46:23.225 NotebookApp] Starting buffering for f0adcd51-dded-46f8-b149-bf1f74623e87:4806e41cc7544b558c7c413d7815291b
+[I 14:46:23.226 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8e5aaf594e1e42aa81d4feb941584548
+[I 14:46:23.228 NotebookApp] Starting buffering for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 14:46:23.245 NotebookApp] Starting buffering for 45a754ca-3583-49d8-b1eb-7a88af65694c:d8355be5f0be49cd8e90420cd0658f97
+[I 15:23:57.131 NotebookApp] Restoring connection for 45a754ca-3583-49d8-b1eb-7a88af65694c:d8355be5f0be49cd8e90420cd0658f97
+[I 15:23:57.635 NotebookApp] Restoring connection for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 15:23:57.840 NotebookApp] Restoring connection for f0adcd51-dded-46f8-b149-bf1f74623e87:4806e41cc7544b558c7c413d7815291b
+[I 15:23:59.671 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8e5aaf594e1e42aa81d4feb941584548
+[I 16:46:57.761 NotebookApp] Starting buffering for f0adcd51-dded-46f8-b149-bf1f74623e87:4806e41cc7544b558c7c413d7815291b
+[I 16:46:57.761 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8e5aaf594e1e42aa81d4feb941584548
+[I 16:46:57.762 NotebookApp] Starting buffering for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 16:46:57.762 NotebookApp] Starting buffering for 45a754ca-3583-49d8-b1eb-7a88af65694c:d8355be5f0be49cd8e90420cd0658f97
+[I 16:46:59.591 NotebookApp] Restoring connection for f0adcd51-dded-46f8-b149-bf1f74623e87:4806e41cc7544b558c7c413d7815291b
+[I 16:46:59.624 NotebookApp] Restoring connection for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 16:46:59.675 NotebookApp] Restoring connection for 45a754ca-3583-49d8-b1eb-7a88af65694c:d8355be5f0be49cd8e90420cd0658f97
+[I 16:46:59.725 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8e5aaf594e1e42aa81d4feb941584548
+[W 16:50:29.592 NotebookApp] WebSocket ping timeout after 119994 ms.
+[W 16:50:30.396 NotebookApp] WebSocket ping timeout after 120766 ms.
+[W 16:50:30.397 NotebookApp] WebSocket ping timeout after 120715 ms.
+[W 16:50:30.397 NotebookApp] WebSocket ping timeout after 120651 ms.
+[I 16:50:35.397 NotebookApp] Starting buffering for f0adcd51-dded-46f8-b149-bf1f74623e87:4806e41cc7544b558c7c413d7815291b
+[I 16:50:35.982 NotebookApp] Starting buffering for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 16:50:35.982 NotebookApp] Starting buffering for 45a754ca-3583-49d8-b1eb-7a88af65694c:d8355be5f0be49cd8e90420cd0658f97
+[I 16:50:35.983 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8e5aaf594e1e42aa81d4feb941584548
+[I 17:20:15.709 NotebookApp] Restoring connection for f0adcd51-dded-46f8-b149-bf1f74623e87:4806e41cc7544b558c7c413d7815291b
+[I 17:20:15.735 NotebookApp] Restoring connection for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 17:20:16.225 NotebookApp] Restoring connection for 45a754ca-3583-49d8-b1eb-7a88af65694c:d8355be5f0be49cd8e90420cd0658f97
+[I 17:20:17.052 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8e5aaf594e1e42aa81d4feb941584548
+[W 18:23:45.711 NotebookApp] WebSocket ping timeout after 119993 ms.
+[W 18:23:47.232 NotebookApp] WebSocket ping timeout after 121489 ms.
+[W 18:23:47.232 NotebookApp] WebSocket ping timeout after 120999 ms.
+[W 18:23:47.233 NotebookApp] WebSocket ping timeout after 120176 ms.
+[I 18:23:52.234 NotebookApp] Starting buffering for f0adcd51-dded-46f8-b149-bf1f74623e87:4806e41cc7544b558c7c413d7815291b
+[I 18:23:52.235 NotebookApp] Starting buffering for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 18:23:52.235 NotebookApp] Starting buffering for 45a754ca-3583-49d8-b1eb-7a88af65694c:d8355be5f0be49cd8e90420cd0658f97
+[I 18:23:52.235 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8e5aaf594e1e42aa81d4feb941584548
+[I 18:27:45.265 NotebookApp] Restoring connection for 45a754ca-3583-49d8-b1eb-7a88af65694c:d8355be5f0be49cd8e90420cd0658f97
+[I 18:27:45.309 NotebookApp] Restoring connection for f0adcd51-dded-46f8-b149-bf1f74623e87:4806e41cc7544b558c7c413d7815291b
+[I 18:27:45.333 NotebookApp] Restoring connection for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 18:27:45.355 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8e5aaf594e1e42aa81d4feb941584548
+[W 18:30:15.266 NotebookApp] WebSocket ping timeout after 106130 ms.
+[W 18:30:15.310 NotebookApp] WebSocket ping timeout after 105026 ms.
+[W 18:30:15.333 NotebookApp] WebSocket ping timeout after 106196 ms.
+[W 18:30:15.356 NotebookApp] WebSocket ping timeout after 106219 ms.
+[I 18:30:20.268 NotebookApp] Starting buffering for 45a754ca-3583-49d8-b1eb-7a88af65694c:d8355be5f0be49cd8e90420cd0658f97
+[I 18:30:20.311 NotebookApp] Starting buffering for f0adcd51-dded-46f8-b149-bf1f74623e87:4806e41cc7544b558c7c413d7815291b
+[I 18:30:20.335 NotebookApp] Starting buffering for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 18:30:20.358 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:8e5aaf594e1e42aa81d4feb941584548
+[I 18:01:37.931 NotebookApp] Kernel restarted: 9fa0580f-330d-4047-abfa-3cf78efc09d5
+[I 18:01:38.140 NotebookApp] Restoring connection for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[W 18:01:42.713 NotebookApp] Nudge: attempt 10 on kernel 9fa0580f-330d-4047-abfa-3cf78efc09d5
+[W 18:01:44.159 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7f725a26bcd0>
+[W 18:01:44.215 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7f725ba4cd90>
+[I 18:01:44.217 NotebookApp] Replaying 3 buffered messages
+[I 18:02:39.102 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 18:04:48.642 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 19:07:43.601 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[W 19:08:19.603 NotebookApp] Replacing stale connection: 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 19:08:24.605 NotebookApp] Starting buffering for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 19:08:24.607 NotebookApp] Restoring connection for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 19:09:10.427 NotebookApp] Kernel interrupted: 9fa0580f-330d-4047-abfa-3cf78efc09d5
+[I 19:09:12.717 NotebookApp] Kernel interrupted: 9fa0580f-330d-4047-abfa-3cf78efc09d5
+[I 19:09:12.926 NotebookApp] Kernel interrupted: 9fa0580f-330d-4047-abfa-3cf78efc09d5
+[I 19:09:13.117 NotebookApp] Kernel interrupted: 9fa0580f-330d-4047-abfa-3cf78efc09d5
+[I 19:09:13.604 NotebookApp] Kernel interrupted: 9fa0580f-330d-4047-abfa-3cf78efc09d5
+[I 19:09:13.956 NotebookApp] Kernel interrupted: 9fa0580f-330d-4047-abfa-3cf78efc09d5
+[I 19:09:29.631 NotebookApp] Starting buffering for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 19:09:30.080 NotebookApp] Kernel restarted: 9fa0580f-330d-4047-abfa-3cf78efc09d5
+[I 19:09:30.200 NotebookApp] Restoring connection for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[I 19:09:30.637 NotebookApp] Replaying 3 buffered messages
+[I 19:09:48.581 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[I 19:11:58.681 NotebookApp] Saving file at /yemenClusters4F4.ipynb
+[W 21:49:30.200 NotebookApp] WebSocket ping timeout after 119991 ms.
+[I 21:49:35.202 NotebookApp] Starting buffering for 9fa0580f-330d-4047-abfa-3cf78efc09d5:3935ace77be64bd78363d200bafdf82a
+[W 10:59:37.227 NotebookApp] Notebook F3_stats_visual-Copy1.ipynb is not trusted
+[I 10:59:37.729 NotebookApp] Kernel started: 0a8559b6-b5d3-446f-b465-141f70f012de, name: python3
+[I 11:00:29.713 NotebookApp] Saving file at /F3_stats_visual-Copy1.ipynb
+[W 11:00:29.714 NotebookApp] Notebook F3_stats_visual-Copy1.ipynb is not trusted
+[I 11:00:29.771 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:4b3daf2121f249b783ca2b47ae7fa475
+[W 11:00:44.236 NotebookApp] Notebook F3_stats_visual.ipynb is not trusted
+[I 11:00:44.584 NotebookApp] Kernel started: a8b06a58-6276-45c5-a541-56594c13131a, name: python3
+[W 11:01:32.438 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 11:01:33.235 NotebookApp] Kernel started: 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4, name: python3
+[I 11:02:45.822 NotebookApp] Saving file at /F3_stats_visual.ipynb
+[W 11:02:45.823 NotebookApp] Notebook F3_stats_visual.ipynb is not trusted
+[W 11:02:49.480 NotebookApp] Notebook F3_stats_visual-Copy1.ipynb is not trusted
+[I 11:03:40.099 NotebookApp] Saving file at /plot_Admix_crossVal.ipynb
+[W 11:03:40.101 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[I 11:04:49.897 NotebookApp] Saving file at /F3_stats_visual-Copy1.ipynb
+[W 11:04:49.898 NotebookApp] Notebook F3_stats_visual-Copy1.ipynb is not trusted
+[I 11:12:45.253 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 11:12:45.354 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 11:12:45.430 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 11:12:46.855 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 11:12:47.590 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 11:12:47.618 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[W 11:15:16.856 NotebookApp] WebSocket ping timeout after 119995 ms.
+[W 11:15:17.590 NotebookApp] WebSocket ping timeout after 119937 ms.
+[W 11:15:17.618 NotebookApp] WebSocket ping timeout after 119964 ms.
+[I 11:15:21.858 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 11:15:22.592 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 11:15:22.620 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 11:58:55.410 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 11:58:55.441 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 11:58:55.481 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 12:40:20.567 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 12:40:20.567 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 12:40:20.568 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 12:40:22.460 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 12:40:22.644 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 12:40:22.793 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 12:51:17.533 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 12:51:17.533 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 12:51:17.557 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 12:51:19.487 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 12:51:19.515 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 12:51:19.599 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 13:05:21.926 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 13:05:21.928 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 13:05:21.943 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 13:05:23.284 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 13:05:23.316 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 13:05:23.382 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[W 13:07:53.286 NotebookApp] WebSocket ping timeout after 119984 ms.
+[W 13:07:53.316 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 13:07:53.383 NotebookApp] WebSocket ping timeout after 119987 ms.
+[I 13:07:58.288 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 13:07:58.318 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 13:07:58.384 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 13:27:43.926 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 13:27:43.952 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 13:27:43.986 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[W 13:29:13.987 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 13:29:18.989 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[W 13:30:13.927 NotebookApp] WebSocket ping timeout after 93391 ms.
+[W 13:30:13.952 NotebookApp] WebSocket ping timeout after 93168 ms.
+[I 13:30:18.930 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 13:30:18.953 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 14:07:29.733 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 14:07:29.758 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 14:07:30.090 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[W 14:09:59.735 NotebookApp] WebSocket ping timeout after 93284 ms.
+[W 14:09:59.758 NotebookApp] WebSocket ping timeout after 93307 ms.
+[W 14:10:00.091 NotebookApp] WebSocket ping timeout after 93383 ms.
+[I 14:10:04.737 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 14:10:04.760 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 14:10:05.094 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 14:10:07.316 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 14:10:07.378 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 14:10:07.420 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 14:27:28.150 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 14:27:28.151 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 14:27:28.152 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 14:27:29.612 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 14:27:29.637 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 14:27:29.674 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[W 14:29:59.613 NotebookApp] WebSocket ping timeout after 93261 ms.
+[W 14:29:59.638 NotebookApp] WebSocket ping timeout after 93285 ms.
+[W 14:29:59.675 NotebookApp] WebSocket ping timeout after 93324 ms.
+[I 14:30:04.614 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 14:30:04.640 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 14:30:04.678 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 14:37:13.817 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 14:37:13.885 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 14:37:13.926 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[W 14:39:43.818 NotebookApp] WebSocket ping timeout after 93287 ms.
+[W 14:39:43.886 NotebookApp] WebSocket ping timeout after 92520 ms.
+[W 14:39:43.927 NotebookApp] WebSocket ping timeout after 93160 ms.
+[I 14:39:48.821 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 14:39:48.888 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 14:39:48.928 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 15:34:03.482 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 15:34:04.786 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 15:34:04.939 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 15:46:48.860 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 15:46:48.861 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 15:46:48.861 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 15:46:50.238 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 15:46:50.265 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 15:46:50.442 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[W 15:49:20.240 NotebookApp] WebSocket ping timeout after 93244 ms.
+[W 15:49:20.266 NotebookApp] WebSocket ping timeout after 93270 ms.
+[W 15:49:20.443 NotebookApp] WebSocket ping timeout after 93291 ms.
+[I 15:49:25.243 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 15:49:25.267 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 15:49:25.444 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 17:11:16.865 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 17:11:16.901 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 17:11:16.942 NotebookApp] Restoring connection for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[W 17:13:46.866 NotebookApp] WebSocket ping timeout after 119043 ms.
+[W 17:13:46.903 NotebookApp] WebSocket ping timeout after 119108 ms.
+[W 17:13:46.943 NotebookApp] WebSocket ping timeout after 119152 ms.
+[I 17:13:51.868 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:3875e2b050dc4a94823a5e773270bce8
+[I 17:13:51.906 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:cf909df46e87441993c259f1814c679f
+[I 17:13:51.944 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:1cc78365becd408c886b8b9c599188fd
+[I 11:35:26.025 NotebookApp] 302 GET /?token=0a20b25994c28f339262f4ca7173278eec476d1f2b55e008 (10.14.0.41) 21.070000ms
+[W 11:35:37.079 NotebookApp] Notebook F3_stats_visual.ipynb is not trusted
+[W 11:37:22.121 NotebookApp] 404 GET /api/contents/f4_stats_visual.ipynb?type=notebook&content=0&_=1668324936837 (10.14.0.41): No such file or directory: f4_stats_visual.ipynb
+[W 11:37:22.122 NotebookApp] No such file or directory: f4_stats_visual.ipynb
+[W 11:37:22.122 NotebookApp] 404 GET /api/contents/f4_stats_visual.ipynb?type=notebook&content=0&_=1668324936837 (10.14.0.41) 2.470000ms referer=http://hydrogen:8892/notebooks/F3_stats_visual.ipynb
+[I 11:37:22.152 NotebookApp] Uploading file to /f4_stats_visual.ipynb
+[W 11:37:22.152 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 11:41:24.608 NotebookApp] Creating new notebook in 
+[I 11:41:25.643 NotebookApp] Kernel started: a38841fe-45dd-4865-ae1a-7fa8f90e880f, name: python3
+[I 11:41:37.787 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 11:41:37.788 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 11:43:25.695 NotebookApp] Saving file at /Untitled4.ipynb
+[I 11:45:25.663 NotebookApp] Saving file at /Untitled4.ipynb
+[W 11:57:46.628 NotebookApp] Notebook F3_stats_visual.ipynb is not trusted
+[I 11:57:46.988 NotebookApp] Kernel started: bbd56365-8842-4c04-890a-a7898244910d, name: python3
+[I 11:57:49.507 NotebookApp] Starting buffering for bbd56365-8842-4c04-890a-a7898244910d:e0682a92d2ea428e88120288660ea220
+[W 11:57:49.978 NotebookApp] Notebook metadataExplorer.ipynb is not trusted
+[W 11:57:51.568 NotebookApp] Notebook F3_stats_visual-Copy1.ipynb is not trusted
+[W 11:58:37.449 NotebookApp] Notebook plot_Admix_crossVal.ipynb is not trusted
+[W 12:03:14.128 NotebookApp] Notebook yemenMap.ipynb is not trusted
+[I 12:21:37.483 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:21:37.484 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:23:37.464 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:23:37.464 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:37:37.501 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:37:37.501 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:39:37.485 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:39:37.486 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:41:37.496 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:41:37.497 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:43:37.482 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:43:37.483 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:45:37.480 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:45:37.481 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:47:37.496 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:47:37.497 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:49:37.485 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:49:37.486 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:51:37.486 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:51:37.487 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:53:37.487 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:53:37.487 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:55:37.491 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:55:37.492 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:57:37.493 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:57:37.493 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 12:59:37.496 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 12:59:37.497 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:01:37.500 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:01:37.501 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:03:37.833 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:03:37.834 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:05:37.515 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:05:37.516 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:07:37.519 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:07:37.520 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:09:37.519 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:09:37.520 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:11:37.540 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:11:37.541 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:13:37.525 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:13:37.526 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:15:37.529 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:15:37.529 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:17:37.527 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:17:37.528 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:19:37.529 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:19:37.530 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:21:37.524 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:21:37.525 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:23:37.531 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:23:37.532 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:25:37.538 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:25:37.539 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:27:38.723 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:27:38.724 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:43:37.579 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:43:37.580 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:45:37.556 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:45:37.557 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:46:46.459 NotebookApp] Kernel interrupted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 13:47:37.551 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:47:37.552 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:49:37.561 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:49:37.562 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:51:37.563 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:51:37.564 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:53:37.561 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:53:37.562 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:55:37.562 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:55:37.563 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 13:59:37.569 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 13:59:37.570 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 14:01:37.579 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 14:01:37.580 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 14:03:37.578 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 14:03:37.579 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 14:05:37.578 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 14:05:37.579 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 14:13:47.358 NotebookApp] Saving file at /f4_stats.ipynb
+[W 14:13:47.359 NotebookApp] Notebook f4_stats.ipynb is not trusted
+[I 14:13:47.751 NotebookApp] Starting buffering for 0a8559b6-b5d3-446f-b465-141f70f012de:bafc5079dcc2422a8795ccf3ed64e69b
+[I 14:15:37.597 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 14:15:37.598 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 14:19:37.593 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 14:19:37.594 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 14:21:37.597 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 14:21:37.598 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 14:23:37.598 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 14:23:37.599 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 14:39:37.636 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 14:39:37.637 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 14:43:37.618 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 14:43:37.619 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 14:45:37.619 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 14:45:37.620 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 16:03:37.698 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 16:03:37.699 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[I 16:05:37.669 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 16:05:37.670 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[W 16:07:37.520 NotebookApp] WebSocket ping timeout after 119992 ms.
+[I 16:07:37.696 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 16:07:37.697 NotebookApp] Notebook f4_stats_visual.ipynb is not trusted
+[W 16:07:38.374 NotebookApp] WebSocket ping timeout after 119945 ms.
+[W 16:07:38.575 NotebookApp] Replacing stale connection: a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[I 16:07:39.791 NotebookApp] Kernel interrupted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 16:07:42.522 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[I 16:07:42.524 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[I 16:07:43.377 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:3bb3dcbc46664f6d9336219e3bf39d9c
+[W 16:07:45.024 NotebookApp] WebSocket ping timeout after 119939 ms.
+[I 16:07:46.740 NotebookApp] Kernel interrupted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 16:07:46.914 NotebookApp] Kernel interrupted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 16:07:47.097 NotebookApp] Kernel interrupted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 16:07:47.281 NotebookApp] Kernel interrupted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 16:07:47.489 NotebookApp] Kernel interrupted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 16:07:47.730 NotebookApp] Kernel interrupted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 16:07:47.969 NotebookApp] Kernel interrupted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 16:07:48.225 NotebookApp] Kernel interrupted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 16:07:50.026 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:3d28635a52054511aaf5e69e1a355153
+[W 16:07:51.222 NotebookApp] WebSocket ping timeout after 119890 ms.
+[I 16:07:56.223 NotebookApp] Starting buffering for f0adcd51-dded-46f8-b149-bf1f74623e87:4051bf67b81b429089c0d7d0c84cf434
+[W 16:07:56.387 NotebookApp] WebSocket ping timeout after 119935 ms.
+[I 16:08:01.390 NotebookApp] Starting buffering for a38841fe-45dd-4865-ae1a-7fa8f90e880f:14a6d887f4aa4d648cfd37b53fca55bf
+[I 16:08:14.854 NotebookApp] Kernel interrupted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 16:08:40.476 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[I 16:08:42.038 NotebookApp] Kernel restarted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 16:08:42.153 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[I 16:08:42.600 NotebookApp] Replaying 3 buffered messages
+[I 16:09:37.664 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:11:37.669 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:13:37.679 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:15:37.673 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:16:29.582 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:3bb3dcbc46664f6d9336219e3bf39d9c
+[I 16:16:36.801 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:3d28635a52054511aaf5e69e1a355153
+[I 16:16:42.315 NotebookApp] Restoring connection for f0adcd51-dded-46f8-b149-bf1f74623e87:4051bf67b81b429089c0d7d0c84cf434
+[I 16:16:48.018 NotebookApp] Restoring connection for a38841fe-45dd-4865-ae1a-7fa8f90e880f:14a6d887f4aa4d648cfd37b53fca55bf
+[I 16:17:37.682 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:19:37.682 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:21:37.683 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:23:37.687 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:25:37.690 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:27:37.687 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:29:37.695 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:31:37.695 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:33:37.695 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:35:37.723 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:37:37.690 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:39:37.688 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:41:38.154 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:43:37.714 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:45:37.698 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:47:37.710 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:49:37.709 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:51:37.712 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:53:37.956 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:55:37.733 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:57:37.716 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 16:59:37.717 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:01:37.737 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:03:37.736 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:05:37.726 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:07:37.742 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:09:37.746 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:11:37.748 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:13:39.041 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:21:37.757 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:23:37.746 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:25:37.738 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:27:37.749 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:29:37.770 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:31:37.751 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:33:37.751 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:35:37.757 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:37:37.762 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:39:37.760 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:41:37.768 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:43:37.749 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:45:37.763 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 17:47:38.120 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 18:04:50.997 NotebookApp] Notebook popmeta2plinkfam.ipynb is not trusted
+[I 18:05:08.564 NotebookApp] Starting buffering for 45a754ca-3583-49d8-b1eb-7a88af65694c:d92cbe80856c47e7809f368c2d2bd5d2
+[I 18:05:37.801 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 18:07:37.790 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 18:09:37.813 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 18:11:37.795 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 18:13:37.802 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[W 18:14:50.176 NotebookApp] Notebook yemenClusters4F4.ipynb is not trusted
+[W 18:17:13.392 NotebookApp] Notebook smartPCA_viz.ipynb is not trusted
+[I 18:17:26.322 NotebookApp] Saving file at /tSNE.ipynb
+[I 18:19:26.314 NotebookApp] Saving file at /tSNE.ipynb
+[I 18:21:26.362 NotebookApp] Saving file at /tSNE.ipynb
+[I 18:23:26.317 NotebookApp] Saving file at /tSNE.ipynb
+[I 18:37:26.070 NotebookApp] Saving file at /tSNE.ipynb
+[I 18:39:26.042 NotebookApp] Saving file at /tSNE.ipynb
+[I 18:41:26.058 NotebookApp] Saving file at /tSNE.ipynb
+[I 18:43:26.030 NotebookApp] Saving file at /tSNE.ipynb
+[I 18:45:26.045 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:20:49.997 NotebookApp] Kernel interrupted: a38841fe-45dd-4865-ae1a-7fa8f90e880f
+[I 19:21:26.101 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:22:32.640 NotebookApp] Kernel interrupted: a38841fe-45dd-4865-ae1a-7fa8f90e880f
+[I 19:22:33.199 NotebookApp] Kernel restarted: a38841fe-45dd-4865-ae1a-7fa8f90e880f
+[W 19:22:33.232 NotebookApp] Replacing stale connection: a38841fe-45dd-4865-ae1a-7fa8f90e880f:14a6d887f4aa4d648cfd37b53fca55bf
+[W 19:22:33.768 NotebookApp] zmq message arrived on closed channel
+[W 19:22:33.768 NotebookApp] zmq message arrived on closed channel
+[W 19:22:33.769 NotebookApp] zmq message arrived on closed channel
+[I 19:22:35.149 NotebookApp] Starting buffering for a38841fe-45dd-4865-ae1a-7fa8f90e880f:14a6d887f4aa4d648cfd37b53fca55bf
+[I 19:22:35.153 NotebookApp] Restoring connection for a38841fe-45dd-4865-ae1a-7fa8f90e880f:14a6d887f4aa4d648cfd37b53fca55bf
+[I 19:23:26.135 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:25:26.079 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:27:26.093 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:37:26.102 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:39:26.112 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:41:26.096 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:43:26.103 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:45:26.089 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:47:26.099 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:49:26.100 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:51:26.103 NotebookApp] Saving file at /tSNE.ipynb
+[I 19:53:26.245 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:03:26.160 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:05:26.144 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:06:19.655 NotebookApp] Kernel interrupted: a38841fe-45dd-4865-ae1a-7fa8f90e880f
+[I 20:07:05.699 NotebookApp] Kernel interrupted: a38841fe-45dd-4865-ae1a-7fa8f90e880f
+[I 20:07:26.120 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:09:26.128 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:15:26.167 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:17:26.131 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:19:26.136 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:21:26.249 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:23:26.132 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:25:26.268 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:27:26.135 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:29:26.627 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:31:26.174 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:33:26.157 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:35:26.176 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:37:26.181 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:39:26.198 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:41:26.200 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:43:26.185 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:45:26.324 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:47:26.183 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:49:26.190 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:51:26.729 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:53:26.212 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:55:26.232 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:57:26.212 NotebookApp] Saving file at /tSNE.ipynb
+[I 20:59:26.245 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:01:26.471 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:03:26.247 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:05:26.244 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:07:26.197 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:09:26.208 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:15:26.256 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:17:26.193 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:19:26.215 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:21:26.201 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:23:26.203 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:31:26.320 NotebookApp] Saving file at /tSNE.ipynb
+[I 21:33:26.230 NotebookApp] Saving file at /tSNE.ipynb
+[W 00:49:42.154 NotebookApp] WebSocket ping timeout after 119992 ms.
+[W 00:49:42.315 NotebookApp] WebSocket ping timeout after 119991 ms.
+[W 00:49:46.799 NotebookApp] WebSocket ping timeout after 119991 ms.
+[I 00:49:47.155 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[I 00:49:47.317 NotebookApp] Starting buffering for f0adcd51-dded-46f8-b149-bf1f74623e87:4051bf67b81b429089c0d7d0c84cf434
+[W 00:49:50.864 NotebookApp] WebSocket ping timeout after 119992 ms.
+[I 00:49:51.801 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:7c96ad52c8f848fca59eb916509b8820
+[I 00:49:55.865 NotebookApp] Starting buffering for 9fa0580f-330d-4047-abfa-3cf78efc09d5:44240d9901714359b2344cd164276819
+[W 00:49:59.584 NotebookApp] WebSocket ping timeout after 119991 ms.
+[I 00:50:04.585 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:3bb3dcbc46664f6d9336219e3bf39d9c
+[W 00:50:05.154 NotebookApp] WebSocket ping timeout after 119931 ms.
+[W 00:50:06.802 NotebookApp] WebSocket ping timeout after 119990 ms.
+[I 00:50:10.156 NotebookApp] Starting buffering for a38841fe-45dd-4865-ae1a-7fa8f90e880f:14a6d887f4aa4d648cfd37b53fca55bf
+[I 00:50:11.804 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:3d28635a52054511aaf5e69e1a355153
+[I 00:58:34.559 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[I 00:58:34.592 NotebookApp] Restoring connection for f0adcd51-dded-46f8-b149-bf1f74623e87:4051bf67b81b429089c0d7d0c84cf434
+[I 00:58:39.585 NotebookApp] Restoring connection for d51fac8b-cbc5-4959-ab87-5193220d5b1c:7c96ad52c8f848fca59eb916509b8820
+[I 00:58:44.257 NotebookApp] Restoring connection for 9fa0580f-330d-4047-abfa-3cf78efc09d5:44240d9901714359b2344cd164276819
+[I 00:58:53.382 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:3bb3dcbc46664f6d9336219e3bf39d9c
+[I 00:58:57.925 NotebookApp] Restoring connection for a38841fe-45dd-4865-ae1a-7fa8f90e880f:14a6d887f4aa4d648cfd37b53fca55bf
+[I 00:58:59.587 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:3d28635a52054511aaf5e69e1a355153
+[I 02:03:56.064 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:3bb3dcbc46664f6d9336219e3bf39d9c
+[I 02:03:58.156 NotebookApp] Restoring connection for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:3bb3dcbc46664f6d9336219e3bf39d9c
+[W 03:24:09.585 NotebookApp] WebSocket ping timeout after 119990 ms.
+[W 03:24:14.258 NotebookApp] WebSocket ping timeout after 119991 ms.
+[I 03:24:14.587 NotebookApp] Starting buffering for d51fac8b-cbc5-4959-ab87-5193220d5b1c:7c96ad52c8f848fca59eb916509b8820
+[I 03:24:19.261 NotebookApp] Starting buffering for 9fa0580f-330d-4047-abfa-3cf78efc09d5:44240d9901714359b2344cd164276819
+[W 03:24:27.927 NotebookApp] WebSocket ping timeout after 119992 ms.
+[W 03:24:28.157 NotebookApp] WebSocket ping timeout after 119991 ms.
+[W 03:24:29.587 NotebookApp] WebSocket ping timeout after 119992 ms.
+[I 03:24:32.928 NotebookApp] Starting buffering for a38841fe-45dd-4865-ae1a-7fa8f90e880f:14a6d887f4aa4d648cfd37b53fca55bf
+[I 03:24:33.159 NotebookApp] Starting buffering for 46ac6ff0-fbd9-43ba-b9f9-0e294a3b9aa4:3bb3dcbc46664f6d9336219e3bf39d9c
+[W 03:24:34.560 NotebookApp] WebSocket ping timeout after 119893 ms.
+[I 03:24:34.588 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:3d28635a52054511aaf5e69e1a355153
+[W 03:24:34.592 NotebookApp] WebSocket ping timeout after 119925 ms.
+[I 03:24:39.562 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[I 03:24:39.593 NotebookApp] Starting buffering for f0adcd51-dded-46f8-b149-bf1f74623e87:4051bf67b81b429089c0d7d0c84cf434
+[I 09:48:52.874 NotebookApp] Kernel restarted: a8b06a58-6276-45c5-a541-56594c13131a
+[I 09:48:52.895 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[I 09:48:53.475 NotebookApp] Replaying 3 buffered messages
+[I 09:49:57.319 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 09:51:57.306 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 09:53:57.307 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 09:55:57.321 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 09:57:57.315 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 09:58:10.293 NotebookApp] Kernel restarted: 3db0b143-be88-408f-99cb-a03bce4df9f2
+[I 09:58:10.319 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:3d28635a52054511aaf5e69e1a355153
+[I 09:58:11.334 NotebookApp] Replaying 3 buffered messages
+[I 09:59:57.322 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:01:57.330 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:03:57.353 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:05:57.338 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:07:57.328 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:09:57.340 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:11:57.388 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:13:57.362 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:15:57.341 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:17:57.340 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:19:57.347 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:21:57.403 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 10:23:57.407 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 11:53:57.468 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 11:55:57.455 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 11:57:57.446 NotebookApp] Saving file at /f4_stats_visual.ipynb
+[I 18:06:32.397 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:3d28635a52054511aaf5e69e1a355153
+[I 18:06:32.483 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[I 18:06:34.153 NotebookApp] Restoring connection for 3db0b143-be88-408f-99cb-a03bce4df9f2:3d28635a52054511aaf5e69e1a355153
+[I 18:06:34.255 NotebookApp] Restoring connection for a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[W 18:09:04.155 NotebookApp] WebSocket ping timeout after 93217 ms.
+[W 18:09:04.256 NotebookApp] WebSocket ping timeout after 93318 ms.
+[I 18:09:09.158 NotebookApp] Starting buffering for 3db0b143-be88-408f-99cb-a03bce4df9f2:3d28635a52054511aaf5e69e1a355153
+[I 18:09:09.257 NotebookApp] Starting buffering for a8b06a58-6276-45c5-a541-56594c13131a:18889376728a4d3983a505875f4bd076
+[W 15:57:28.786 NotebookApp] Notebook metadataExplorer-haplogroups.ipynb is not trusted
+[I 15:57:29.989 NotebookApp] Kernel started: 42c8a189-9d49-460d-b341-8e198c766a45, name: python3
+[W 15:57:52.361 NotebookApp] Notebook metadataExplorer-haplogroups.ipynb is not trusted
+[W 15:58:29.991 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 15:58:31.007 NotebookApp] Kernel started: 41328e49-d32a-44a5-8d35-9cccf1967383, name: python3
+[I 15:59:31.087 NotebookApp] Saving file at /metadataExplorer-haplogroups.ipynb
+[W 15:59:31.088 NotebookApp] Notebook metadataExplorer-haplogroups.ipynb is not trusted
+[I 16:00:31.034 NotebookApp] Saving file at /haplogroups.ipynb
+[W 16:00:31.035 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 16:02:31.022 NotebookApp] Saving file at /haplogroups.ipynb
+[W 16:02:31.023 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 16:08:31.028 NotebookApp] Saving file at /haplogroups.ipynb
+[W 16:08:31.029 NotebookApp] Notebook haplogroups.ipynb is not trusted
+[I 16:16:06.971 NotebookApp] Starting buffering for 41328e49-d32a-44a5-8d35-9cccf1967383:48e21184ed7a45bc8fa20e9ea0fb4581
+[I 16:16:06.976 NotebookApp] Starting buffering for 42c8a189-9d49-460d-b341-8e198c766a45:1e97c5808a7e4a6286ce5d8abef8f5fe
+[I 16:16:08.019 NotebookApp] Restoring connection for 41328e49-d32a-44a5-8d35-9cccf1967383:48e21184ed7a45bc8fa20e9ea0fb4581
+[W 16:19:08.019 NotebookApp] WebSocket ping timeout after 119939 ms.
+[W 16:19:08.274 NotebookApp] WebSocket ping timeout after 119997 ms.
+[W 16:19:08.301 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 16:19:13.022 NotebookApp] Starting buffering for 41328e49-d32a-44a5-8d35-9cccf1967383:48e21184ed7a45bc8fa20e9ea0fb4581
+[I 16:19:13.303 NotebookApp] Starting buffering for 42c8a189-9d49-460d-b341-8e198c766a45:1e97c5808a7e4a6286ce5d8abef8f5fe
+[I 16:20:54.928 NotebookApp] Restoring connection for 41328e49-d32a-44a5-8d35-9cccf1967383:48e21184ed7a45bc8fa20e9ea0fb4581
+[I 16:49:34.938 NotebookApp] Starting buffering for 41328e49-d32a-44a5-8d35-9cccf1967383:48e21184ed7a45bc8fa20e9ea0fb4581
+[I 16:49:34.939 NotebookApp] Starting buffering for 42c8a189-9d49-460d-b341-8e198c766a45:6d9e8175585d42b38d71157930282a12
+[I 16:49:37.078 NotebookApp] Restoring connection for 41328e49-d32a-44a5-8d35-9cccf1967383:48e21184ed7a45bc8fa20e9ea0fb4581
+[W 16:52:07.028 NotebookApp] WebSocket ping timeout after 93335 ms.
+[W 16:52:07.057 NotebookApp] WebSocket ping timeout after 93364 ms.
+[W 16:52:07.078 NotebookApp] WebSocket ping timeout after 93386 ms.
+[I 16:52:12.059 NotebookApp] Starting buffering for 42c8a189-9d49-460d-b341-8e198c766a45:6d9e8175585d42b38d71157930282a12
+[I 16:52:12.080 NotebookApp] Starting buffering for 41328e49-d32a-44a5-8d35-9cccf1967383:48e21184ed7a45bc8fa20e9ea0fb4581
+[I 16:53:21.432 NotebookApp] Restoring connection for 42c8a189-9d49-460d-b341-8e198c766a45:6d9e8175585d42b38d71157930282a12
+[I 16:53:21.494 NotebookApp] Restoring connection for 41328e49-d32a-44a5-8d35-9cccf1967383:48e21184ed7a45bc8fa20e9ea0fb4581
+[I 16:55:33.276 NotebookApp] Starting buffering for 41328e49-d32a-44a5-8d35-9cccf1967383:48e21184ed7a45bc8fa20e9ea0fb4581
+[I 16:55:33.277 NotebookApp] Starting buffering for 42c8a189-9d49-460d-b341-8e198c766a45:6d9e8175585d42b38d71157930282a12
+[I 16:55:34.922 NotebookApp] Restoring connection for 42c8a189-9d49-460d-b341-8e198c766a45:6d9e8175585d42b38d71157930282a12
+[I 16:55:34.971 NotebookApp] Restoring connection for 41328e49-d32a-44a5-8d35-9cccf1967383:48e21184ed7a45bc8fa20e9ea0fb4581
+[W 16:58:04.922 NotebookApp] WebSocket ping timeout after 93350 ms.
+[W 16:58:04.950 NotebookApp] WebSocket ping timeout after 93381 ms.
+[W 16:58:04.971 NotebookApp] WebSocket ping timeout after 93400 ms.
+[I 16:58:09.951 NotebookApp] Starting buffering for 42c8a189-9d49-460d-b341-8e198c766a45:1e97c5808a7e4a6286ce5d8abef8f5fe
+[I 16:58:09.973 NotebookApp] Starting buffering for 41328e49-d32a-44a5-8d35-9cccf1967383:48e21184ed7a45bc8fa20e9ea0fb4581
