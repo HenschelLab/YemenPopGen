@@ -26,7 +26,7 @@ drwxrwxr-x 2 ahenschel ahenschel 12288 Jun 30 16:54 AdmixTools_hgdp_mind0.3_geno
 drwxrwxr-x 2 ahenschel ahenschel  4096 Sep  5 10:21 AdmixTools_HO_mind0.01_geno_0.05/
 drwxrwxr-x 2 ahenschel ahenschel  4096 May 31 10:54 AdmixTools_HO_mind0.3_geno_0.05/
 drwxrwxr-x 5 ahenschel ahenschel 12288 Sep  5 10:36 AdmixTools_HO_mind0.3_geno_0.2/
-drwxrwxr-x 2 ahenschel ahenschel 12288 May 31 10:49 AdmixTools_HO_mind0.7_geno_0.5_pop10/```
+drwxrwxr-x 2 ahenschel ahenschel 12288 May 31 10:49 AdmixTools_HO_mind0.7_geno_0.5_pop10/'''
 
 ## Visualization:
 See Notebooks directory
