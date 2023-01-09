@@ -1,3 +1,5 @@
+# Yemen Population Genetics and genetic history
+
 conda activate admix (contains plink as well as admixtools, jupyter, ipython, etc)
 
 See also small READMEs in subdirs (particularly Scripts/README)
@@ -47,4 +49,3 @@ docker exec -it flashpca-yemen bash # execute a bash
 (it requires that anaylis (the dir holding bed/bim/fam) is readable to all
 chmod -R a+r analysis
 
-# Yemen Population Genetics and genetic history
